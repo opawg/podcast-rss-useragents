@@ -39,6 +39,7 @@
 {"pattern":"Podhero\/","name":"Pod Hero","slug":"podhero","url":"https:\/\/podhero.com\/"},
 {"pattern":"Podalong\/","name":"Podalong","slug":"podalong","url":"https:\/\/www.podalong.com\/"},
 {"pattern":"PodbeanFeedReader","name":"Podbean","slug":"podbean","url":"https:\/\/www.podbean.com\/podcast-app-iphone-android-mobile"},
+{"pattern":"PodBotLP\/","name":"PodLP","slug":"podlp","url":"https:\/\/podlp.com"},
 {"pattern":"PodcastRepublic\/","name":"Podcast Republic","slug":"podcastrepublic","url":"https:\/\/www.podcastrepublic.net\/"},
 {"pattern":"PodcastAddict\/","name":"PodcastAddict","slug":"podcastaddict","url":"https:\/\/play.google.com\/store\/apps\/details?id=com.bambuna.podcastaddict&hl=en_AU"},
 {"pattern":"podCloud\/","name":"podCloud","slug":"podcloud","url":"https:\/\/podcloud.fr\/"},
