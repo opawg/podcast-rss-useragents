@@ -3,6 +3,10 @@ This is a list of useragents used by apps and services to query RSS data for pod
 
 You might use this to tag audio files to get better statistics from podcast consumption, since some audio useragents are not able to be changed from the default (AppleCoreMedia, I'm looking at you).
 
+## The files
+
+There's only one - `/src/rss-ua.json`
+
 ## Contributing to the list
 
 Each entry _must_ contain the following properties:
