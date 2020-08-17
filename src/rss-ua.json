@@ -47,6 +47,7 @@
 {"pattern":"Podkicker","name":"Podkicker","slug":"podkicker","url":"https:\/\/play.google.com\/store\/apps\/details?id=ait.podka&hl=en_AU"},
 {"pattern":"PodMust\/","name":"PodMust","slug":"podmust","url":"https:\/\/podmust.com"},
 {"pattern":"PodnewsBot","name":"PodnewsBot","slug":"podnewsbot","url":"https:\/\/podnews.net\/bot"},
+{"pattern":"Podtail\/","name":"Podtail","slug":"podtail","url":"https:\/\/podtail.com"},
 {"pattern":"Radical-Edward","name":"Radical-Edward Podcast Discovery","slug":"radicaledward","url":"https:\/\/rheo.tv\/"},
 {"pattern":"Radioline","name":"Radioline","slug":"radioline","url":"https:\/\/www.radioline.co\/faq"},
 {"pattern":"RadioPublic-Web\/","name":"RadioPublic","slug":"radiopublic","url":"https:\/\/radiopublic.com\/"},
