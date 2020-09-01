@@ -47,6 +47,7 @@
 {"pattern":"Podkicker","name":"Podkicker","slug":"podkicker","url":"https:\/\/play.google.com\/store\/apps\/details?id=ait.podka&hl=en_AU"},
 {"pattern":"PodLink","name":"PodLink","slug":"podlink","url":"http:\/\/pod.link\/faq\/crawler"},
 {"pattern":"PodBotLP\/","name":"PodLP","slug":"podlp","url":"https:\/\/podlp.com"},
+{"pattern":"PodMN\/","name":"PodMN","slug":"podmn","url":"https:\/\/podmn.com"},
 {"pattern":"PodMust\/","name":"PodMust","slug":"podmust","url":"https:\/\/podmust.com"},
 {"pattern":"PodnewsBot","name":"PodnewsBot","slug":"podnewsbot","url":"https:\/\/podnews.net\/bot"},
 {"pattern":"Podtail\/","name":"Podtail","slug":"podtail","url":"https:\/\/podtail.com\/"},
