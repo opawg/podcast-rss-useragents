@@ -3,7 +3,7 @@ This is a list of useragents used by apps and services to query RSS data for pod
 
 You might use this to tag audio files to get better statistics from podcast consumption, since some audio useragents are not able to be changed from the default (AppleCoreMedia, I'm looking at you).
 
-This data has been used to [discover Tunein's actual download figures](https://podnews.net/article/eight-times-bigger-podcast-user-agents), but should be usable for more correctly identifying podcast apps in some circumstances.
+This data has been used to [discover Tunein's actual download figures](https://podnews.net/article/eight-times-bigger-podcast-user-agents), but are usable for correctly identifying podcast apps in more circumstances than using the audio useragent by itself: particularly for browser-based plays.
 
 You can also use this as a method to block apps you don't like from consuming your podcast; or to feed audio in a specific format to a podcast app (perhaps they don't like M4A files, for example).
 
