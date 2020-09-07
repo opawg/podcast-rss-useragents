@@ -5,6 +5,8 @@ You might use this to tag audio files to get better statistics from podcast cons
 
 This data has been used to [discover Tunein's actual download figures](https://podnews.net/article/eight-times-bigger-podcast-user-agents), but should be usable for more correctly identifying podcast apps in some circumstances.
 
+You can also use this as a method to block apps you don't like from consuming your podcast.
+
 ## The files
 
 There's only one - `/src/rss-ua.json`
@@ -21,4 +23,4 @@ Each entry _can_ contain one of the following properties:
 
 * `url` (string): a website to discover more about this particular service.
 
-This list is automatically generated from a MySQL database.
+This list is automatically generated from a MySQL database; pull requests will be accepted though.
