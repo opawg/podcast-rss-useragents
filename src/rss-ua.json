@@ -37,6 +37,7 @@
 {"pattern":"Downcast\/","name":"Downcast","slug":"downcast","url":"http:\/\/www.downcastapp.com\/"},
 {"pattern":"Faraday","name":"Faraday-unknown","slug":"faraday","url":""},
 {"pattern":"Feedly","name":"Feedly","slug":"feedly","url":"https:\/\/feedly.com\/"},
+{"pattern":"Feedspot\/","name":"Feedspot","slug":"feedspot","url":"https:\/\/www.feedspot.com\/"},
 {"pattern":"ffyd\/","name":"Ffyd","slug":"ffyd","url":"https:\/\/fyyd.de\/"},
 {"pattern":"ffyd-poll","name":"Ffyd","slug":"ffyd","url":"https:\/\/fyyd.de\/"},
 {"pattern":"Googlebot","name":"Googlebot","slug":"googlebot","url":"https:\/\/www.google.com\/bot.html"},
