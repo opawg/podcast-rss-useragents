@@ -15,7 +15,7 @@ It follows the [best practice for useragents](https://developers.whatismybrowser
 
 Podnews uses: `Mozilla/5.0 +https://podnews.net/bot PodnewsBot/1.0` and links [to this article](https://podnews.net/article/podnews-bot).
 
-In case you're worried about being blocked, don't be: Podnews has no evidence that its bot has been blocked from any service.
+In case you're worried about being blocked, don't be: Podnews has no evidence that its bot has been blocked from any service. The presence of `Mozilla/5.0` appears to calm nervous sysadmins, too.
 
 ## The files
 
