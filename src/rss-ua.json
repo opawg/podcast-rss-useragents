@@ -144,6 +144,12 @@
         "url": "https:\/\/apple.com"
     },
     {
+        "pattern": "Amazon Music Podcast\/",
+        "name": "Amazon Music Podcast",
+        "slug": "amazonmusic",
+        "url": "https:\/\/www.amazon.com\/music\/lp\/podcasts\/"
+    },
+    {
         "pattern": "special_archiver",
         "name": "archive.org",
         "slug": "archiveorg",
