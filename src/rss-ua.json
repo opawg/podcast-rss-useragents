@@ -156,6 +156,12 @@
         "url": "http:\/\/www.beyondpod.mobi\/android\/index.htm"
     },
     {
+        "pattern": "RawVoice Generator\/",
+        "name": "Blubrry Podcasting",
+        "slug": "blubrry",
+        "url": "https:\/\/create.blubrry.com\/resources\/blubrry-podcast-directory\/"
+    },
+    {
         "pattern": "Breaker\/",
         "name": "Breaker",
         "slug": "breaker",
@@ -198,7 +204,7 @@
         "url": "https:\/\/chartable.com\/crawler"
     },
     {
-        "pattern": "Deezer Podcasters",
+        "pattern": "Deezer Podcasters\/",
         "name": "Deezer",
         "slug": "deezer",
         "url": "https:\/\/www.deezer.com\/en\/"
@@ -226,6 +232,12 @@
         "name": "Downcast",
         "slug": "downcast",
         "url": "http:\/\/www.downcastapp.com\/"
+    },
+    {
+        "pattern": "Entale bot",
+        "name": "Entale",
+        "slug": "entale",
+        "url": "https:\/\/www.entale.co"
     },
     {
         "pattern": "Faraday",
@@ -256,6 +268,12 @@
         "name": "Ffyd",
         "slug": "ffyd",
         "url": "https:\/\/fyyd.de\/"
+    },
+    {
+        "pattern": "FYEO\/",
+        "name": "FYEO",
+        "slug": "fyeo",
+        "url": "https:\/\/www.fyeo.de"
     },
     {
         "pattern": "Googlebot",
@@ -292,6 +310,12 @@
         "name": "iCatcher! Podcast Player",
         "slug": "icatcher",
         "url": "https:\/\/www.joeisanerd.com\/"
+    },
+    {
+        "pattern": "Instacast\/",
+        "name": "Instacast",
+        "slug": "instacast",
+        "url": "https:\/\/9to5mac.com\/guides\/instacast\/"
     },
     {
         "pattern": "iTMS",
@@ -342,6 +366,12 @@
         "url": "https:\/\/pandora.com"
     },
     {
+        "pattern": "Playapod\/",
+        "name": "Playapod",
+        "slug": "playapod",
+        "url": "https:\/\/playapod.com"
+    },
+    {
         "pattern": "PlayerFM\/1.0 Podcast Sync",
         "name": "Player FM",
         "slug": "playerfm",
@@ -366,7 +396,7 @@
         "url": "https:\/\/podhero.com\/"
     },
     {
-        "pattern": "Podalong\/",
+        "pattern": "Mozilla\/5.0 (compatible; Podalong\/",
         "name": "Podalong",
         "slug": "podalong",
         "url": "https:\/\/www.podalong.com\/"
@@ -378,7 +408,7 @@
         "url": "https:\/\/podbay.fm\/about"
     },
     {
-        "pattern": "PodbeanFeedReader",
+        "pattern": "PodbeanFeedReader\/",
         "name": "Podbean",
         "slug": "podbean",
         "url": "https:\/\/www.podbean.com\/podcast-app-iphone-android-mobile"
@@ -396,6 +426,12 @@
         "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.bambuna.podcastaddict&hl=en_AU"
     },
     {
+        "pattern": "Podchaser-parser",
+        "name": "Podchaser",
+        "slug": "podchaser",
+        "url": "https:\/\/www.podchaser.com"
+    },
+    {
         "pattern": "podCloud\/",
         "name": "podCloud",
         "slug": "podcloud",
@@ -406,6 +442,12 @@
         "name": "PodCruncher",
         "slug": "podcruncher",
         "url": "https:\/\/podcruncher.co\/"
+    },
+    {
+        "pattern": "PodEngine\/",
+        "name": "PodEngine",
+        "slug": "podengine",
+        "url": "http:\/\/podengine.com"
     },
     {
         "pattern": "podfollowbot\/",
@@ -468,10 +510,22 @@
         "url": "https:\/\/podnews.net\/bot"
     },
     {
+        "pattern": "PodParadise",
+        "name": "PodParadise",
+        "slug": "podparadise",
+        "url": "https:\/\/www.podparadise.com"
+    },
+    {
         "pattern": "Podtail\/",
         "name": "Podtail",
         "slug": "podtail",
         "url": "https:\/\/podtail.com\/"
+    },
+    {
+        "pattern": "Podyssey App",
+        "name": "Podyssey App",
+        "slug": "podyssey",
+        "url": "https:\/\/podyssey.fm"
     },
     {
         "pattern": "Radical-Edward",
@@ -514,6 +568,12 @@
         "name": "SocialBeeAgent",
         "slug": "socialbeeagent",
         "url": "https:\/\/socialbee.io\/"
+    },
+    {
+        "pattern": "Spotify\/",
+        "name": "Spotify",
+        "slug": "spotify",
+        "url": "https:\/\/podcasters.spotify.com"
     },
     {
         "pattern": "Spreaker\/",
