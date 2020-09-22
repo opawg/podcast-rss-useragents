@@ -12,6 +12,12 @@
         "url": ""
     },
     {
+        "pattern": "Amazon Music Podcast",
+        "name": "Amazon Music Podcasts",
+        "slug": "amazon",
+        "url": "https:\/\/music.amazon.com\/podcasts\/"
+    },
+    {
         "pattern": "AntennaPod\/",
         "name": "AntennaPod",
         "slug": "antennapod",
@@ -414,6 +420,12 @@
         "url": "https:\/\/www.podbean.com\/podcast-app-iphone-android-mobile"
     },
     {
+        "pattern": "Podcastindex.org\/",
+        "name": "Podcast Index",
+        "slug": "podcastindex",
+        "url": "https:\/\/podcastindex.org"
+    },
+    {
         "pattern": "PodcastRepublic\/",
         "name": "Podcast Republic",
         "slug": "podcastrepublic",
@@ -424,12 +436,6 @@
         "name": "PodcastAddict",
         "slug": "podcastaddict",
         "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.bambuna.podcastaddict&hl=en_AU"
-    },
-    {
-        "pattern": "Podcastindex.org\/",
-        "name": "Podcastindex.org",
-        "slug": "podcastindex",
-        "url": "https:\/\/podcastindex.org"
     },
     {
         "pattern": "Podchaser-parser",
