@@ -640,5 +640,11 @@
         "name": "Winds",
         "slug": "winds",
         "url": "https:\/\/getstream.io\/winds\/"
+    },
+    {
+        "pattern": "russ(xiaoyuzhou)\/1.0",
+        "name": "Xiaoyuzhou",
+        "slug": "xiaoyuzhou",
+        "url": "https:\/\/www.reddit.com\/r\/xiaoyuzhou\/"
     }
 ]
