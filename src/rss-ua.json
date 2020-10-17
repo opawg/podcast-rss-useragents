@@ -276,6 +276,12 @@
         "url": "https:\/\/fyyd.de\/"
     },
     {
+        "pattern": "ffydpoll",
+        "name": "Ffyd",
+        "slug": "ffyd",
+        "url": "https:\/\/fyyd.de\/"
+    },
+    {
         "pattern": "FYEO\/",
         "name": "FYEO",
         "slug": "fyeo",
@@ -442,6 +448,12 @@
         "name": "Podchaser",
         "slug": "podchaser",
         "url": "https:\/\/www.podchaser.com"
+    },
+    {
+        "pattern": "Podchaser-Parser",
+        "name": "Podchaser",
+        "slug": "podchaser",
+        "url": "https:\/\/www.podchaser.com\/"
     },
     {
         "pattern": "podCloud\/",
