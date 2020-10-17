@@ -246,12 +246,6 @@
         "url": "https:\/\/www.entale.co"
     },
     {
-        "pattern": "Faraday",
-        "name": "Faraday-unknown",
-        "slug": "faraday",
-        "url": ""
-    },
-    {
         "pattern": "Feedly",
         "name": "Feedly",
         "slug": "feedly",
@@ -340,6 +334,12 @@
         "name": "iVoox",
         "slug": "ivoox",
         "url": "https:\/\/www.ivoox.com\/en\/"
+    },
+    {
+        "pattern": "Faraday",
+        "name": "Laughable",
+        "slug": "faraday",
+        "url": "https:\/\/laughable.com\/"
     },
     {
         "pattern": "Leaf\/",
