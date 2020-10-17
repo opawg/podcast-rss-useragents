@@ -444,12 +444,6 @@
         "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.bambuna.podcastaddict&hl=en_AU"
     },
     {
-        "pattern": "Podchaser-parser",
-        "name": "Podchaser",
-        "slug": "podchaser",
-        "url": "https:\/\/www.podchaser.com"
-    },
-    {
         "pattern": "Podchaser-Parser",
         "name": "Podchaser",
         "slug": "podchaser",
@@ -496,6 +490,12 @@
         "name": "Podimo",
         "slug": "podimo",
         "url": "https:\/\/podimo.com\/en"
+    },
+    {
+        "pattern": "Podinstall",
+        "name": "Podinstall",
+        "slug": "podinstall",
+        "url": "https:\/\/www.podinstall.com\/"
     },
     {
         "pattern": "Podkicker",
