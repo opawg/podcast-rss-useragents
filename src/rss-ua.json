@@ -12,6 +12,12 @@
         "url": ""
     },
     {
+        "pattern": "Airr Podcatcher",
+        "name": "Airr",
+        "slug": "airr",
+        "url": "https:\/\/www.airr.io\/"
+    },
+    {
         "pattern": "Amazon Music Podcast",
         "name": "Amazon Music Podcasts",
         "slug": "amazon",
@@ -210,6 +216,12 @@
         "url": "https:\/\/chartable.com\/crawler"
     },
     {
+        "pattern": "Podcast-CriticalMention\/",
+        "name": "Critical Mention",
+        "slug": "criticalmention",
+        "url": "https:\/\/www.criticalmention.com\/"
+    },
+    {
         "pattern": "Deezer Podcasters\/",
         "name": "Deezer",
         "slug": "deezer",
@@ -283,7 +295,7 @@
     },
     {
         "pattern": "Googlebot",
-        "name": "Googlebot",
+        "name": "Google Podcasts and Search",
         "slug": "googlebot",
         "url": "https:\/\/www.google.com\/bot.html"
     },
@@ -541,6 +553,12 @@
     },
     {
         "pattern": "Podtail\/",
+        "name": "Podtail",
+        "slug": "podtail",
+        "url": "https:\/\/podtail.com\/"
+    },
+    {
+        "pattern": "Mozilla\/5.0 (compatible; Podtail\/",
         "name": "Podtail",
         "slug": "podtail",
         "url": "https:\/\/podtail.com\/"
