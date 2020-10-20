@@ -654,6 +654,12 @@
         "url": "http:\/\/www.humanware.com\/microsite\/stream\/index.html"
     },
     {
+        "pattern": "VurblBot\/",
+        "name": "Vurbl",
+        "slug": "Vurbl",
+        "url": "https:\/\/vurbl.com"
+    },
+    {
         "pattern": "Winds:",
         "name": "Winds",
         "slug": "winds",
