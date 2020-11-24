@@ -168,6 +168,12 @@
         "url": "http:\/\/www.beyondpod.mobi\/android\/index.htm"
     },
     {
+        "pattern": "Bitcast\/",
+        "name": "Bitcast",
+        "slug": "bitcast",
+        "url": "https:\/\/bitcast.fm"
+    },
+    {
         "pattern": "RawVoice Generator\/",
         "name": "Blubrry Podcasting",
         "slug": "blubrry",
