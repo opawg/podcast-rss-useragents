@@ -29,7 +29,7 @@ Each entry _must_ contain the following properties:
 
 * `pattern` (string): a simple unique string to search for.
 * `name` (string): a humanly-readable name of this service
-* `slug` (string): a short name for tagging audio, or other reasons. (This will, one day, switch to a domain.)
+* `slug` (string): a domain-like short identifier for this service
 
 Each entry _can_ contain one of the following properties:
 
