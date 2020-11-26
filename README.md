@@ -29,11 +29,19 @@ Each entry _must_ contain the following properties:
 
 * `pattern` (string): a simple unique string to search for.
 * `name` (string): a humanly-readable name of this service
-* `slug` (string): a short name for tagging audio, or other reasons
+* `slug` (string): a short name for tagging audio, or other reasons. (This will, one day, switch to a domain.)
 
 Each entry _can_ contain one of the following properties:
 
 * `url` (string): a website to discover more about this particular service.
 
 This list is automatically generated from a MySQL database; pull requests will be accepted though.
+
+## Alternatives
+
+If you use a service like Podcast Index which does the RSS scraping for you, I'd encourage you to consider stamping your audio requests by adding a `_from` variable at the end of the URL.
+
+As an example, if you run a web service and are unable to change the RSS useragent, amend a call for `https://example.com/audio/episode5.mp3` to `https://example.com/audio/episode5.mp3?_from=podinfra.net` where `podinfra.net` is your domain.
+
+As another example, if the URL is `https://example.com/audio/episode5.mp3?format=35` then change it to `https://example.com/audio/episode5.mp3?format=35&_from=podinfra.net`
 
