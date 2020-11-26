@@ -2,7 +2,7 @@
     {
         "pattern": "Acast",
         "name": "Acast",
-        "slug": "acast",
+        "slug": "acast.com",
         "url": "https:\/\/www.acast.com\/en"
     },
     {
@@ -14,193 +14,193 @@
     {
         "pattern": "Airr Podcatcher",
         "name": "Airr",
-        "slug": "airr",
+        "slug": "airr.io",
         "url": "https:\/\/www.airr.io\/"
     },
     {
         "pattern": "Amazon Music Podcast",
         "name": "Amazon Music Podcasts",
-        "slug": "amazon",
+        "slug": "amazon.com",
         "url": "https:\/\/music.amazon.com\/podcasts\/"
     },
     {
         "pattern": "AntennaPod\/",
         "name": "AntennaPod",
-        "slug": "antennapod",
+        "slug": "antennapod.org",
         "url": "https:\/\/antennapod.org\/"
     },
     {
         "pattern": "iTunes\/",
         "name": "Apple iTunes",
-        "slug": "itunes",
+        "slug": "itunes.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podcasts\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
+        "url": "https:\/\/apple.com"
+    },
+    {
+        "pattern": "iTMS",
+        "name": "Apple Podcasts",
+        "slug": "itms.apple.com",
+        "url": "https:\/\/podcasts.apple.com\/"
+    },
+    {
+        "pattern": "Balados\/",
+        "name": "Apple Podcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Balados\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
-        "url": "https:\/\/apple.com"
-    },
-    {
-        "pattern": "Balados\/",
-        "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podcasti\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podcastit\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podcasturi\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podcasty\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podcast\u2019ler\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podkaster\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podcaster\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podcast\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "Podcastok\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u0438\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "\u05e4\u05d5\u05d3\u05e7\u05d0\u05e1\u05d8\u05d9\u05dd\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "\u0627\u0644\u0628\u0648\u062f\u0643\u0627\u0633\u062a\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "\u092a\u0949\u0921\u0915\u093e\u0938\u094d\u091f\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "\u0e1e\u0e47\u0e2d\u0e14\u0e04\u0e32\u0e2a\u0e17\u0e4c\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "\u64ad\u5ba2\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "\ud31f\uce90\uc2a4\ud2b8\/",
         "name": "Apple Podcasts",
-        "slug": "applepodcasts",
+        "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
     },
     {
         "pattern": "special_archiver",
         "name": "archive.org",
-        "slug": "archiveorg",
+        "slug": "archive.org",
         "url": "http:\/\/www.archive.org\/details\/archive.org_bot"
     },
     {
         "pattern": "BeyondPod",
         "name": "BeyondPod",
-        "slug": "beyondpod",
+        "slug": "beyondpod.mobi",
         "url": "http:\/\/www.beyondpod.mobi\/android\/index.htm"
-    },
-    {
-        "pattern": "Bitcast\/",
-        "name": "Bitcast",
-        "slug": "bitcast",
-        "url": "https:\/\/bitcast.fm"
     },
     {
         "pattern": "RawVoice Generator\/",
         "name": "Blubrry Podcasting",
-        "slug": "blubrry",
+        "slug": "blubrry.com",
         "url": "https:\/\/create.blubrry.com\/resources\/blubrry-podcast-directory\/"
     },
     {
         "pattern": "Breaker\/",
         "name": "Breaker",
-        "slug": "breaker",
+        "slug": "breaker.audio",
         "url": "https:\/\/www.breaker.audio\/"
     },
     {
         "pattern": "briefings.fm",
         "name": "briefings.fm",
-        "slug": "briefings-fm",
+        "slug": "briefings.fm",
         "url": "http:\/\/briefings.fm\/"
     },
     {
         "pattern": "Bullhorn Server",
         "name": "Bullhorn",
-        "slug": "bullhorn",
+        "slug": "bullhorn.fm",
         "url": "https:\/\/www.bullhorn.fm\/"
     },
     {
         "pattern": "CastboxFeedParser",
         "name": "Castbox",
-        "slug": "castbox",
+        "slug": "castbox.fm",
         "url": "https:\/\/castbox.fm\/"
     },
     {
@@ -212,103 +212,103 @@
     {
         "pattern": "Tentacles",
         "name": "Castro",
-        "slug": "castro",
+        "slug": "castro.fm",
         "url": "https:\/\/castro.fm\/"
     },
     {
         "pattern": "Mozilla\/5.0 +https:\/\/chartable.com\/crawler Trackable\/",
         "name": "Chartable",
-        "slug": "chartable",
+        "slug": "chartable.com",
         "url": "https:\/\/chartable.com\/crawler"
     },
     {
         "pattern": "Podcast-CriticalMention\/",
         "name": "Critical Mention",
-        "slug": "criticalmention",
+        "slug": "criticalmention.com",
         "url": "https:\/\/www.criticalmention.com\/"
     },
     {
         "pattern": "Deezer Podcasters\/",
         "name": "Deezer",
-        "slug": "deezer",
+        "slug": "deezer.com",
         "url": "https:\/\/www.deezer.com\/en\/"
     },
     {
         "pattern": "DEVONthink",
         "name": "DEVONthink",
-        "slug": "devonthink",
+        "slug": "devontechnologies.com",
         "url": "https:\/\/www.devontechnologies.com\/apps\/devonthink"
     },
     {
         "pattern": "Typhoeus",
         "name": "Digital Podcast",
-        "slug": "digital-podcast",
+        "slug": "digitalpodcast.com",
         "url": "http:\/\/www.digitalpodcast.com\/"
     },
     {
         "pattern": "DoggCatcher",
         "name": "DoggCatcher",
-        "slug": "doggcatcher",
+        "slug": "doggcatcher.com",
         "url": "http:\/\/www.doggcatcher.com\/"
     },
     {
         "pattern": "Downcast\/",
         "name": "Downcast",
-        "slug": "downcast",
+        "slug": "downcastapp.com",
         "url": "http:\/\/www.downcastapp.com\/"
     },
     {
         "pattern": "Entale bot",
         "name": "Entale",
-        "slug": "entale",
+        "slug": "entale.co",
         "url": "https:\/\/www.entale.co"
     },
     {
         "pattern": "Feedly",
         "name": "Feedly",
-        "slug": "feedly",
+        "slug": "feedly.com",
         "url": "https:\/\/feedly.com\/"
     },
     {
         "pattern": "Feedspot\/",
         "name": "Feedspot",
-        "slug": "feedspot",
+        "slug": "feedspot.com",
         "url": "https:\/\/www.feedspot.com\/"
     },
     {
         "pattern": "ffyd\/",
         "name": "Ffyd",
-        "slug": "ffyd",
+        "slug": "ffyd.de",
         "url": "https:\/\/fyyd.de\/"
     },
     {
         "pattern": "ffyd-poll",
         "name": "Ffyd",
-        "slug": "ffyd",
+        "slug": "ffyd.de",
         "url": "https:\/\/fyyd.de\/"
     },
     {
         "pattern": "ffydpoll",
         "name": "Ffyd",
-        "slug": "ffyd",
+        "slug": "ffyd.de",
         "url": "https:\/\/fyyd.de\/"
     },
     {
         "pattern": "FYEO\/",
         "name": "FYEO",
-        "slug": "fyeo",
+        "slug": "fyeo.de",
         "url": "https:\/\/www.fyeo.de"
     },
     {
         "pattern": "Googlebot",
         "name": "Google Podcasts and Search",
-        "slug": "googlebot",
+        "slug": "bot.google.com",
         "url": "https:\/\/www.google.com\/bot.html"
     },
     {
         "pattern": "gPodder\/",
         "name": "gPodder",
-        "slug": "gpodder",
+        "slug": "gpodder.github.io",
         "url": "https:\/\/gpodder.github.io\/"
     },
     {
@@ -320,19 +320,19 @@
     {
         "pattern": "Headliner",
         "name": "Headliner",
-        "slug": "headliner",
+        "slug": "headliner.app",
         "url": "https:\/\/www.headliner.app\/"
     },
     {
         "pattern": "Hypefactors",
         "name": "Hypefactors",
-        "slug": "hypefactors",
+        "slug": "hypefactors.com",
         "url": "https:\/\/app.hypefactors.com\/media-monitoring\/about.html"
     },
     {
         "pattern": "iCatcher",
         "name": "iCatcher! Podcast Player",
-        "slug": "icatcher",
+        "slug": "joeisanerd.com",
         "url": "https:\/\/www.joeisanerd.com\/"
     },
     {
@@ -342,21 +342,15 @@
         "url": "https:\/\/9to5mac.com\/guides\/instacast\/"
     },
     {
-        "pattern": "iTMS",
-        "name": "iTMS",
-        "slug": "itms",
-        "url": ""
-    },
-    {
         "pattern": "iVoox",
         "name": "iVoox",
-        "slug": "ivoox",
+        "slug": "ivooxcom",
         "url": "https:\/\/www.ivoox.com\/en\/"
     },
     {
         "pattern": "Faraday",
         "name": "Laughable",
-        "slug": "faraday",
+        "slug": "laughable.com",
         "url": "https:\/\/laughable.com\/"
     },
     {
@@ -368,283 +362,295 @@
     {
         "pattern": "ListenNotes",
         "name": "Listen Notes",
-        "slug": "listennotes",
+        "slug": "listennotes.com",
         "url": "https:\/\/www.listennotes.com\/"
     },
     {
         "pattern": "Luminary\/",
         "name": "Luminary",
-        "slug": "luminary",
+        "slug": "luminary.com",
         "url": "https:\/\/luminarypodcasts.com\/"
     },
     {
         "pattern": "Overcast\/",
         "name": "Overcast",
-        "slug": "overcast",
+        "slug": "overcast.fm",
         "url": "https:\/\/overcast.fm\/"
     },
     {
         "pattern": "OwlTail\/",
         "name": "OwlTail",
-        "slug": "owltail",
+        "slug": "owltail.com",
         "url": "https:\/\/www.owltail.com\/"
     },
     {
         "pattern": "PandoraRSSCrawler",
         "name": "Pandora",
-        "slug": "pandora",
+        "slug": "pandora.com",
         "url": "https:\/\/pandora.com"
     },
     {
         "pattern": "Playapod\/",
         "name": "Playapod",
-        "slug": "playapod",
+        "slug": "playapod.com",
         "url": "https:\/\/playapod.com"
     },
     {
         "pattern": "PlayerFM\/1.0 Podcast Sync",
         "name": "Player FM",
-        "slug": "playerfm",
+        "slug": "player.fm",
         "url": "https:\/\/player.fm\/"
     },
     {
         "pattern": "Plex\/",
         "name": "Plex",
-        "slug": "plex",
+        "slug": "plex.tv",
         "url": "https:\/\/www.plex.tv\/"
     },
     {
         "pattern": "PocketCasts\/",
         "name": "Pocket Casts",
-        "slug": "pocketcasts",
+        "slug": "pocketcasts.com",
         "url": "https:\/\/www.pocketcasts.com\/"
     },
     {
         "pattern": "Swoot\/",
         "name": "Pod Hero",
-        "slug": "podhero",
+        "slug": "podhero.com",
         "url": "https:\/\/podhero.com\/"
     },
     {
         "pattern": "Mozilla\/5.0 (compatible; Podalong\/",
         "name": "Podalong",
-        "slug": "podalong",
+        "slug": "podalong.com",
         "url": "https:\/\/www.podalong.com\/"
     },
     {
         "pattern": "Podbay\/",
         "name": "Podbay",
-        "slug": "podbay",
+        "slug": "podbay.fm",
         "url": "https:\/\/podbay.fm\/about"
     },
     {
         "pattern": "PodbeanFeedReader\/",
         "name": "Podbean",
-        "slug": "podbean",
+        "slug": "podbean.com",
         "url": "https:\/\/www.podbean.com\/podcast-app-iphone-android-mobile"
     },
     {
         "pattern": "Podcastindex.org\/",
         "name": "Podcast Index",
-        "slug": "podcastindex",
+        "slug": "podcastindex.org",
         "url": "https:\/\/podcastindex.org"
     },
     {
         "pattern": "PodcastRepublic\/",
         "name": "Podcast Republic",
-        "slug": "podcastrepublic",
+        "slug": "podcastrepublic.net",
         "url": "https:\/\/www.podcastrepublic.net\/"
     },
     {
         "pattern": "PodcastAddict\/",
         "name": "PodcastAddict",
-        "slug": "podcastaddict",
-        "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.bambuna.podcastaddict&hl=en_AU"
+        "slug": "podcastaddict.com",
+        "url": "https:\/\/podcastaddict.com\/"
     },
     {
         "pattern": "Podchaser-Parser",
         "name": "Podchaser",
-        "slug": "podchaser",
+        "slug": "podchaser.com",
         "url": "https:\/\/www.podchaser.com\/"
     },
     {
         "pattern": "podCloud\/",
         "name": "podCloud",
-        "slug": "podcloud",
+        "slug": "podcloud.fr",
         "url": "https:\/\/podcloud.fr\/"
     },
     {
         "pattern": "PodCruncher",
         "name": "PodCruncher",
-        "slug": "podcruncher",
+        "slug": "podcruncher.co",
         "url": "https:\/\/podcruncher.co\/"
     },
     {
         "pattern": "PodEngine\/",
         "name": "PodEngine",
-        "slug": "podengine",
+        "slug": "podengine.com",
         "url": "http:\/\/podengine.com"
     },
     {
         "pattern": "podfollowbot\/",
         "name": "Podfollow",
-        "slug": "podfollow",
+        "slug": "podfollow.com",
         "url": "https:\/\/podfollow.com\/crawling"
     },
     {
         "pattern": "Podhero\/",
         "name": "Podhero",
-        "slug": "podhero",
+        "slug": "podhero.com",
         "url": "https:\/\/podhero.com\/"
     },
     {
         "pattern": "PodHound\/",
         "name": "PodHound",
-        "slug": "podhound",
+        "slug": "podhound.co",
         "url": "https:\/\/podhound.co\/"
     },
     {
         "pattern": "Podimo\/",
         "name": "Podimo",
-        "slug": "podimo",
+        "slug": "podimo.com",
         "url": "https:\/\/podimo.com\/en"
     },
     {
         "pattern": "Podinstall",
         "name": "Podinstall",
-        "slug": "podinstall",
+        "slug": "podinstall.com",
         "url": "https:\/\/www.podinstall.com\/"
     },
     {
         "pattern": "Podkicker",
         "name": "Podkicker",
-        "slug": "podkicker",
-        "url": "https:\/\/play.google.com\/store\/apps\/details?id=ait.podka&hl=en_AU"
+        "slug": "podkicker.com",
+        "url": "https:\/\/www.podkicker.com\/"
     },
     {
         "pattern": "PodLink",
         "name": "PodLink",
-        "slug": "podlink",
+        "slug": "pod.link",
         "url": "http:\/\/pod.link\/faq\/crawler"
     },
     {
         "pattern": "PodBotLP\/",
         "name": "PodLP",
-        "slug": "podlp",
+        "slug": "podlp.com",
         "url": "https:\/\/podlp.com"
     },
     {
         "pattern": "PodMN\/",
         "name": "PodMN",
-        "slug": "podmn",
+        "slug": "podmn.com",
         "url": "https:\/\/podmn.com"
     },
     {
         "pattern": "PodMust\/",
         "name": "PodMust",
-        "slug": "podmust",
+        "slug": "podmust.com",
         "url": "https:\/\/podmust.com"
     },
     {
         "pattern": "PodnewsBot",
         "name": "PodnewsBot",
-        "slug": "podnewsbot",
+        "slug": "podnews.net",
         "url": "https:\/\/podnews.net\/bot"
     },
     {
         "pattern": "PodParadise",
         "name": "PodParadise",
-        "slug": "podparadise",
+        "slug": "podparadise.com",
         "url": "https:\/\/www.podparadise.com"
     },
     {
         "pattern": "Podtail\/",
         "name": "Podtail",
-        "slug": "podtail",
+        "slug": "podtail.com",
         "url": "https:\/\/podtail.com\/"
     },
     {
         "pattern": "Mozilla\/5.0 (compatible; Podtail\/",
         "name": "Podtail",
-        "slug": "podtail",
+        "slug": "podtail.com",
         "url": "https:\/\/podtail.com\/"
+    },
+    {
+        "pattern": "PodverseFeedParser",
+        "name": "Podverse",
+        "slug": "podverse.fm",
+        "url": "https:\/\/podverse.fm\/"
     },
     {
         "pattern": "Podyssey App",
         "name": "Podyssey App",
-        "slug": "podyssey",
+        "slug": "podyssey.fm",
         "url": "https:\/\/podyssey.fm"
     },
     {
         "pattern": "Radical-Edward",
         "name": "Radical-Edward Podcast Discovery",
-        "slug": "radicaledward",
+        "slug": "rheo.tv",
         "url": "https:\/\/rheo.tv\/"
     },
     {
         "pattern": "Radioline",
         "name": "Radioline",
-        "slug": "radioline",
+        "slug": "radioline.co",
         "url": "https:\/\/www.radioline.co\/faq"
     },
     {
         "pattern": "RadioPublic-Web\/",
         "name": "RadioPublic",
-        "slug": "radiopublic",
+        "slug": "radiopublic.com",
         "url": "https:\/\/radiopublic.com\/"
     },
     {
         "pattern": "Repod\/",
         "name": "Repod",
-        "slug": "repod",
+        "slug": "repod.io",
         "url": "https:\/\/repod.io\/"
+    },
+    {
+        "pattern": "RSSOwl\/",
+        "name": "RSSOwl",
+        "slug": "rssowl.org",
+        "url": "http:\/\/www.rssowl.org\/"
     },
     {
         "pattern": "RSSRadio",
         "name": "RSSRadio",
-        "slug": "rssradio",
+        "slug": "rssrad.io",
         "url": "http:\/\/rssrad.io\/"
     },
     {
         "pattern": "Slackbot",
         "name": "Slackbot",
-        "slug": "slackbot",
+        "slug": "slack.com",
         "url": "https:\/\/api.slack.com\/robots"
     },
     {
         "pattern": "SocialBeeAgent",
         "name": "SocialBeeAgent",
-        "slug": "socialbeeagent",
+        "slug": "socialbee.io",
         "url": "https:\/\/socialbee.io\/"
     },
     {
         "pattern": "Spotify\/",
         "name": "Spotify",
-        "slug": "spotify",
+        "slug": "spotify.com",
         "url": "https:\/\/podcasters.spotify.com"
     },
     {
         "pattern": "Spreaker\/",
         "name": "Spreaker",
-        "slug": "spreaker",
+        "slug": "spreaker.com",
         "url": "https:\/\/www.spreaker.com\/download"
     },
     {
         "pattern": "StitcherBot",
         "name": "Stitcher",
-        "slug": "stitcher",
+        "slug": "stitcher.com",
         "url": "https:\/\/www.stitcher.com\/"
     },
     {
         "pattern": "Subcast\/",
         "name": "Subcast-unknown",
-        "slug": "subcast",
-        "url": ""
+        "slug": "subcast.com",
+        "url": "http:\/\/subcast.com\/"
     },
     {
         "pattern": "Tiny Tiny RSS",
         "name": "Tiny Tiny RSS",
-        "slug": "tinytinyrss",
+        "slug": "tt-rss.org",
         "url": "https:\/\/tt-rss.org\/"
     },
     {
@@ -656,25 +662,25 @@
     {
         "pattern": "VictorReader",
         "name": "Victor Reader",
-        "slug": "victorreader",
+        "slug": "humanwear.com",
         "url": "http:\/\/www.humanware.com\/microsite\/stream\/index.html"
     },
     {
         "pattern": "VurblBot\/",
         "name": "Vurbl",
-        "slug": "vurbl",
+        "slug": "vurbl.com",
         "url": "https:\/\/vurbl.com"
     },
     {
         "pattern": "Winds:",
         "name": "Winds",
-        "slug": "winds",
+        "slug": "getstream.io",
         "url": "https:\/\/getstream.io\/winds\/"
     },
     {
         "pattern": "russ(xiaoyuzhou)\/1.0",
-        "name": "Xiaoyuzhou",
-        "slug": "xiaoyuzhou",
-        "url": "https:\/\/www.reddit.com\/r\/xiaoyuzhou\/"
+        "name": "Xiao Yu Zhou",
+        "slug": "xiaoyuzhoufm.com",
+        "url": "https:\/\/www.xiaoyuzhoufm.com\/"
     }
 ]
