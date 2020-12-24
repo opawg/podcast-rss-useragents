@@ -6,6 +6,12 @@
         "url": "https:\/\/www.acast.com\/en"
     },
     {
+        "pattern": "Aggregator\/",
+        "name": "Aggregator",
+        "slug": "aggregator.tughi.github.io",
+        "url": "https:\/\/tughi.github.io\/aggregator-android\/"
+    },
+    {
         "pattern": "AirPodcasts\/",
         "name": "AirPodcasts-unknown",
         "slug": "airpodcasts",
@@ -36,16 +42,16 @@
         "url": "https:\/\/apple.com"
     },
     {
+        "pattern": "itunesstored\/1.0",
+        "name": "Apple iTunes Store",
+        "slug": "store.itunes.apple.com",
+        "url": ""
+    },
+    {
         "pattern": "Podcasts\/",
         "name": "Apple Podcasts",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com"
-    },
-    {
-        "pattern": "iTMS",
-        "name": "Apple Podcasts",
-        "slug": "itms.apple.com",
-        "url": "https:\/\/podcasts.apple.com\/"
     },
     {
         "pattern": "Balados\/",
@@ -162,6 +168,12 @@
         "url": "https:\/\/apple.com"
     },
     {
+        "pattern": "iTMS",
+        "name": "Apple Podcasts storefront",
+        "slug": "itms.apple.com",
+        "url": "https:\/\/podcasts.apple.com\/"
+    },
+    {
         "pattern": "special_archiver",
         "name": "archive.org",
         "slug": "archive.org",
@@ -178,6 +190,12 @@
         "name": "Bitcast",
         "slug": "bitcast.fm",
         "url": "https:\/\/bitcast.fm"
+    },
+    {
+        "pattern": "bitcastbot",
+        "name": "Bitcast",
+        "slug": "bitcast.fm",
+        "url": "https:\/\/bitcast.fm\/crawling"
     },
     {
         "pattern": "RawVoice Generator\/",
@@ -270,6 +288,24 @@
         "url": "https:\/\/www.entale.co"
     },
     {
+        "pattern": "Feed Wrangler\/",
+        "name": "Feed Wrangler",
+        "slug": "feedwrangler.net",
+        "url": "https:\/\/feedwrangler.net\/"
+    },
+    {
+        "pattern": "Feedbin",
+        "name": "Feedbin",
+        "slug": "feedbin.com",
+        "url": "https:\/\/feedbin.com\/"
+    },
+    {
+        "pattern": "feeder.co",
+        "name": "Feeder",
+        "slug": "feeder.co",
+        "url": "https:\/\/feeder.co\/"
+    },
+    {
         "pattern": "Feedly",
         "name": "Feedly",
         "slug": "feedly.com",
@@ -282,28 +318,34 @@
         "url": "https:\/\/www.feedspot.com\/"
     },
     {
-        "pattern": "ffyd\/",
-        "name": "Ffyd",
-        "slug": "ffyd.de",
-        "url": "https:\/\/fyyd.de\/"
-    },
-    {
-        "pattern": "ffyd-poll",
-        "name": "Ffyd",
-        "slug": "ffyd.de",
-        "url": "https:\/\/fyyd.de\/"
-    },
-    {
         "pattern": "ffydpoll",
         "name": "Ffyd",
         "slug": "ffyd.de",
         "url": "https:\/\/fyyd.de\/"
     },
     {
+        "pattern": "FreshRSS",
+        "name": "FreshRSS",
+        "slug": "freshrss.org",
+        "url": "https:\/\/freshrss.org\/"
+    },
+    {
         "pattern": "FYEO\/",
         "name": "FYEO",
         "slug": "fyeo.de",
         "url": "https:\/\/www.fyeo.de"
+    },
+    {
+        "pattern": "fyyd\/",
+        "name": "Fyyd",
+        "slug": "fyyd.de",
+        "url": "https:\/\/fyyd.de\/"
+    },
+    {
+        "pattern": "fyyd-poll",
+        "name": "Fyyd",
+        "slug": "fyyd.de",
+        "url": "https:\/\/fyyd.de\/"
     },
     {
         "pattern": "Googlebot",
@@ -336,6 +378,12 @@
         "url": "https:\/\/app.hypefactors.com\/media-monitoring\/about.html"
     },
     {
+        "pattern": "Buck\/",
+        "name": "Hypefactors",
+        "slug": "hypefactors.com",
+        "url": "https:\/\/app.hypefactors.com\/media-monitoring\/about.html"
+    },
+    {
         "pattern": "iCatcher",
         "name": "iCatcher! Podcast Player",
         "slug": "joeisanerd.com",
@@ -350,8 +398,14 @@
     {
         "pattern": "iVoox",
         "name": "iVoox",
-        "slug": "ivooxcom",
+        "slug": "ivoox.com",
         "url": "https:\/\/www.ivoox.com\/en\/"
+    },
+    {
+        "pattern": "Krzana bot",
+        "name": "Krzana",
+        "slug": "krzana.com",
+        "url": "https:\/\/krzana.com\/"
     },
     {
         "pattern": "Faraday",
@@ -376,6 +430,36 @@
         "name": "Luminary",
         "slug": "luminary.com",
         "url": "https:\/\/luminarypodcasts.com\/"
+    },
+    {
+        "pattern": "Micro.blog\/",
+        "name": "Micro.blog",
+        "slug": "micro.blog",
+        "url": "https:\/\/micro.blog\/"
+    },
+    {
+        "pattern": "MissinglettrBot\/",
+        "name": "MissingLettr",
+        "slug": "missinglettr.com",
+        "url": "https:\/\/missinglettr.com\/bot\/"
+    },
+    {
+        "pattern": "MuckRackFeedParser",
+        "name": "Muck Rack",
+        "slug": "muckrack.com",
+        "url": "https:\/\/muckrack.com\/"
+    },
+    {
+        "pattern": "Newsify Feed Fetcher",
+        "name": "Newsify",
+        "slug": "newsify.co",
+        "url": "http:\/\/www.newsify.co\/"
+    },
+    {
+        "pattern": "NextCloud-News\/",
+        "name": "Nextcloud",
+        "slug": "nextcloud.com",
+        "url": "https:\/\/nextcloud.com\/"
     },
     {
         "pattern": "Overcast\/",
@@ -409,6 +493,18 @@
     },
     {
         "pattern": "Plex\/",
+        "name": "Plex",
+        "slug": "plex.tv",
+        "url": "https:\/\/www.plex.tv\/"
+    },
+    {
+        "pattern": "plex",
+        "name": "Plex",
+        "slug": "plex.tv",
+        "url": "https:\/\/www.plex.tv\/"
+    },
+    {
+        "pattern": "Plex Media Providers",
         "name": "Plex",
         "slug": "plex.tv",
         "url": "https:\/\/www.plex.tv\/"
@@ -570,6 +666,12 @@
         "url": "https:\/\/podtail.com\/"
     },
     {
+        "pattern": "podtail",
+        "name": "Podtail",
+        "slug": "podtail.com",
+        "url": "https:\/\/podtail.com\/en\/"
+    },
+    {
         "pattern": "PodverseFeedParser",
         "name": "Podverse",
         "slug": "podverse.fm",
@@ -588,6 +690,12 @@
         "url": "https:\/\/rheo.tv\/"
     },
     {
+        "pattern": "axios\/0.19.1",
+        "name": "radio.com",
+        "slug": "radio.com",
+        "url": "https:\/\/www.radio.com\/"
+    },
+    {
         "pattern": "Radioline",
         "name": "Radioline",
         "slug": "radioline.co",
@@ -598,6 +706,12 @@
         "name": "RadioPublic",
         "slug": "radiopublic.com",
         "url": "https:\/\/radiopublic.com\/"
+    },
+    {
+        "pattern": "Reeder\/",
+        "name": "Reeder",
+        "slug": "reederapp.com",
+        "url": "https:\/\/reederapp.com\/"
     },
     {
         "pattern": "Repod\/",
@@ -654,6 +768,12 @@
         "url": "http:\/\/subcast.com\/"
     },
     {
+        "pattern": "syncify\/",
+        "name": "Syncify",
+        "slug": "syncify.fm",
+        "url": "https:\/\/syncify.fm\/"
+    },
+    {
         "pattern": "Tiny Tiny RSS",
         "name": "Tiny Tiny RSS",
         "slug": "tt-rss.org",
@@ -664,6 +784,12 @@
         "name": "TPA-unknown",
         "slug": "tpa",
         "url": ""
+    },
+    {
+        "pattern": "um-IC\/",
+        "name": "Ubermetrics",
+        "slug": "ubermetrics-technologies.com",
+        "url": "https:\/\/www.ubermetrics-technologies.com\/"
     },
     {
         "pattern": "VictorReader",
@@ -688,5 +814,23 @@
         "name": "Xiao Yu Zhou",
         "slug": "xiaoyuzhoufm.com",
         "url": "https:\/\/www.xiaoyuzhoufm.com\/"
+    },
+    {
+        "pattern": "Russ",
+        "name": "Xiao Yu Zhou",
+        "slug": "xiaoyuzhoufm.com",
+        "url": "https:\/\/www.xiaoyuzhoufm.com\/"
+    },
+    {
+        "pattern": "Zapier",
+        "name": "Zapier",
+        "slug": "zapier.com",
+        "url": "https:\/\/zapier.com"
+    },
+    {
+        "pattern": "ZoominfoBot",
+        "name": "Zoominfo",
+        "slug": "zoominfo.com",
+        "url": "https:\/\/www.zoominfo.com\/about-zoominfo\/zoominfobot"
     }
 ]
