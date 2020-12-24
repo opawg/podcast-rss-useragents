@@ -688,5 +688,11 @@
         "name": "Xiao Yu Zhou",
         "slug": "xiaoyuzhoufm.com",
         "url": "https:\/\/www.xiaoyuzhoufm.com\/"
+    },
+    {
+        "pattern": "PodcastGuru",
+        "name": "Podcast Guru",
+        "slug": "podcastguru.io",
+        "url": "https:\/\/www.podcastguru.io\/"
     }
 ]
