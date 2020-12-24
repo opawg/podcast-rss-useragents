@@ -5,7 +5,7 @@ You might use this to tag audio files to get better statistics from podcast cons
 
 This data has been used to [discover Tunein's actual download figures](https://podnews.net/article/eight-times-bigger-podcast-user-agents), but are usable for correctly identifying podcast apps in more circumstances than using the audio useragent by itself: particularly for browser-based plays.
 
-Here's [an example of some data](https://podnews.net/article/podnews-podcast-stats) using this list.
+Here's [an example of some data](https://podnews.net/article/podnews-podcast-stats) using this list; and [an example set of RSS feed requests](https://podnews.net/article/podnews-rss-stats).
 
 You can also use this as a method to block apps you don't like from consuming your podcast; or to feed audio in a specific format to a podcast app (perhaps they don't like M4A files, for example).
 
