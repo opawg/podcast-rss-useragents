@@ -672,7 +672,7 @@
         "url": "https:\/\/podtail.com\/en\/"
     },
     {
-        "pattern": "PodverseFeedParser",
+        "pattern": "Podverse\/Feed Parser",
         "name": "Podverse",
         "slug": "podverse.fm",
         "url": "https:\/\/podverse.fm\/"
@@ -772,6 +772,12 @@
         "name": "Syncify",
         "slug": "syncify.fm",
         "url": "https:\/\/syncify.fm\/"
+    },
+    {
+        "pattern": "TapTapes",
+        "name": "Taptapes",
+        "slug": "taptapes.com",
+        "url": "https:\/\/www.taptapes.com\/"
     },
     {
         "pattern": "Tiny Tiny RSS",
