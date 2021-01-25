@@ -843,12 +843,12 @@
         "pattern": "Pandora",
         "name": "Pandora",
         "slug": "pandora.com",
-        "url": "https:\/\/pandora.com\/en"
+        "url": "https:\/\/pandora.com\/"
     },
     {
         "pattern": "SiriusXM",
         "name": "SiriusXM",
         "slug": "siriusxm.com",
-        "url": "https:\/\/www.siriusxm.com\/en"
+        "url": "https:\/\/www.siriusxm.com\/"
     }
 ]
