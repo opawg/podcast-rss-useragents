@@ -838,5 +838,17 @@
         "name": "Zoominfo",
         "slug": "zoominfo.com",
         "url": "https:\/\/www.zoominfo.com\/about-zoominfo\/zoominfobot"
+    },
+    {
+        "pattern": "Pandora",
+        "name": "Pandora",
+        "slug": "pandora.com",
+        "url": "https:\/\/pandora.com\/en"
+    },
+    {
+        "pattern": "SiriusXM",
+        "name": "SiriusXM",
+        "slug": "siriusxm.com",
+        "url": "https:\/\/www.siriusxm.com\/en"
     }
 ]
