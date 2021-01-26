@@ -354,6 +354,12 @@
         "url": "https:\/\/www.google.com\/bot.html"
     },
     {
+        "pattern": "GEfektBot\/1",
+        "name": "Govoren Efekt Bot",
+        "slug": "govorenefekt.com",
+        "url": "https:\/\/govorenefekt.com\/bot\/#english"
+    },
+    {
         "pattern": "gPodder\/",
         "name": "gPodder",
         "slug": "gpodder.github.io",
@@ -390,6 +396,12 @@
         "url": "https:\/\/www.joeisanerd.com\/"
     },
     {
+        "pattern": "inoreader.com",
+        "name": "Inoreader",
+        "slug": "inoreader.com",
+        "url": "https:\/\/www.inoreader.com\/"
+    },
+    {
         "pattern": "Instacast\/",
         "name": "Instacast",
         "slug": "instacast",
@@ -420,6 +432,12 @@
         "url": ""
     },
     {
+        "pattern": "Liferea\/",
+        "name": "Liferea",
+        "slug": "liferea.lzone.de",
+        "url": "https:\/\/lzone.de\/liferea\/"
+    },
+    {
         "pattern": "ListenNotes",
         "name": "Listen Notes",
         "slug": "listennotes.com",
@@ -448,6 +466,30 @@
         "name": "Muck Rack",
         "slug": "muckrack.com",
         "url": "https:\/\/muckrack.com\/"
+    },
+    {
+        "pattern": "NetNewsWire",
+        "name": "NetNewsWire",
+        "slug": "netnewswire.com",
+        "url": "https:\/\/netnewswire.com\/"
+    },
+    {
+        "pattern": "Netvibes",
+        "name": "Netvibes",
+        "slug": "netvibes.com",
+        "url": "https:\/\/www.netvibes.com\/en"
+    },
+    {
+        "pattern": "News Explorer\/",
+        "name": "News Explorer",
+        "slug": "betamagic.nl",
+        "url": "https:\/\/betamagic.nl\/products\/newsexplorer.html"
+    },
+    {
+        "pattern": "NewsBlur Feed Fetcher",
+        "name": "NewsBlur",
+        "slug": "newsblur.com",
+        "url": "https:\/\/www.newsblur.com\/"
     },
     {
         "pattern": "Newsify Feed Fetcher",
@@ -538,6 +580,12 @@
         "name": "Podbean",
         "slug": "podbean.com",
         "url": "https:\/\/www.podbean.com\/podcast-app-iphone-android-mobile"
+    },
+    {
+        "pattern": "PodcastGuru",
+        "name": "Podcast Guru",
+        "slug": "podcastguru.io",
+        "url": "https:\/\/podcastguru.io\/"
     },
     {
         "pattern": "Podcastindex.org\/",
@@ -732,6 +780,18 @@
         "url": "http:\/\/rssrad.io\/"
     },
     {
+        "pattern": "SerendeputyBot\/",
+        "name": "Serendeputy",
+        "slug": "serendeputy.com",
+        "url": "https:\/\/serendeputy.com\/"
+    },
+    {
+        "pattern": "SismicsReaderBot",
+        "name": "Sismics Reader",
+        "slug": "sismics.com",
+        "url": "https:\/\/www.sismics.com\/reader\/"
+    },
+    {
         "pattern": "Slackbot",
         "name": "Slackbot",
         "slug": "slack.com",
@@ -766,6 +826,12 @@
         "name": "Subcast-unknown",
         "slug": "subcast.com",
         "url": "http:\/\/subcast.com\/"
+    },
+    {
+        "pattern": "Superfeedr bot",
+        "name": "Superfeedr",
+        "slug": "superfeedr.com",
+        "url": "https:\/\/superfeedr.com\/"
     },
     {
         "pattern": "syncify\/",
@@ -838,11 +904,5 @@
         "name": "Zoominfo",
         "slug": "zoominfo.com",
         "url": "https:\/\/www.zoominfo.com\/about-zoominfo\/zoominfobot"
-    },
-    {
-        "pattern": "GEfektBot",
-        "name": "Govoren Efekt Bot",
-        "slug": "govorenefekt.com",
-        "url": "https:\/\/govorenefekt.com\/bot"
     }
 ]
