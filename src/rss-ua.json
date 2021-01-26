@@ -838,5 +838,11 @@
         "name": "Zoominfo",
         "slug": "zoominfo.com",
         "url": "https:\/\/www.zoominfo.com\/about-zoominfo\/zoominfobot"
+    },
+    {
+        "pattern": "GEfektBot",
+        "name": "Govoren Efekt Bot",
+        "slug": "govorenefekt.com",
+        "url": "https:\/\/govorenefekt.com\/bot"
     }
 ]
