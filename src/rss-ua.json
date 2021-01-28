@@ -282,6 +282,12 @@
         "url": "http:\/\/www.downcastapp.com\/"
     },
     {
+        "pattern": "edgar",
+        "name": "Edgar",
+        "slug": "meetedgar.com",
+        "url": "https:\/\/meetedgar.com\/"
+    },
+    {
         "pattern": "Entale bot",
         "name": "Entale",
         "slug": "entale.co",
@@ -504,6 +510,12 @@
         "url": "https:\/\/nextcloud.com\/"
     },
     {
+        "pattern": "NRCAudioBot\/",
+        "name": "NRC Audio",
+        "slug": "audio.nrc.nl",
+        "url": "https:\/\/www.nrc.nl\/audio\/"
+    },
+    {
         "pattern": "Overcast\/",
         "name": "Overcast",
         "slug": "overcast.fm",
@@ -520,6 +532,12 @@
         "name": "Pandora",
         "slug": "pandora.com",
         "url": "https:\/\/pandora.com"
+    },
+    {
+        "pattern": "PaperLiBot\/",
+        "name": "Paper.li",
+        "slug": "paper.li",
+        "url": "https:\/\/paper.li\/"
     },
     {
         "pattern": "Playapod\/",
@@ -780,6 +798,12 @@
         "url": "http:\/\/rssrad.io\/"
     },
     {
+        "pattern": "semantic-visions.com",
+        "name": "Semantic Visions",
+        "slug": "semantic-visions.com",
+        "url": "https:\/\/semantic-visions.com\/"
+    },
+    {
         "pattern": "SerendeputyBot\/",
         "name": "Serendeputy",
         "slug": "serendeputy.com",
@@ -844,6 +868,12 @@
         "name": "Taptapes",
         "slug": "taptapes.com",
         "url": "https:\/\/www.taptapes.com\/"
+    },
+    {
+        "pattern": "tweetedtimes.com",
+        "name": "The Tweeted Times",
+        "slug": "tweetedtimes.com",
+        "url": "https:\/\/tweetedtimes.com\/"
     },
     {
         "pattern": "Tiny Tiny RSS",
