@@ -36,6 +36,12 @@
         "url": "https:\/\/antennapod.org\/"
     },
     {
+        "pattern": "anytime_podcast_player",
+        "name": "Anytime podcast player",
+        "slug": "anytime.amugofjava.me.uk",
+        "url": "https:\/\/github.com\/amugofjava\/anytime_podcast_player"
+    },
+    {
         "pattern": "iTunes\/",
         "name": "Apple iTunes",
         "slug": "itunes.apple.com",
@@ -184,6 +190,12 @@
         "name": "BeyondPod",
         "slug": "beyondpod.mobi",
         "url": "http:\/\/www.beyondpod.mobi\/android\/index.htm"
+    },
+    {
+        "pattern": "bingbot\/",
+        "name": "BingBot",
+        "slug": "bing.com",
+        "url": "http:\/\/www.bing.com\/bingbot.htm"
     },
     {
         "pattern": "Bitcast\/",
@@ -624,6 +636,18 @@
         "url": "https:\/\/podcastaddict.com\/"
     },
     {
+        "pattern": "Podcastly\/",
+        "name": "Podcastly",
+        "slug": "pdcstly.com",
+        "url": "https:\/\/pdcstly.com\/"
+    },
+    {
+        "pattern": "Podcastly\/",
+        "name": "Podcastly",
+        "slug": "pdcstly.com",
+        "url": "https:\/\/pdcstly.com\/"
+    },
+    {
         "pattern": "Podchaser-Parser",
         "name": "Podchaser",
         "slug": "podchaser.com",
@@ -804,6 +828,12 @@
         "url": "https:\/\/semantic-visions.com\/"
     },
     {
+        "pattern": "SemrushBot",
+        "name": "SEMrushBot",
+        "slug": "semrush.com",
+        "url": "https:\/\/www.semrush.com\/bot\/"
+    },
+    {
         "pattern": "SerendeputyBot\/",
         "name": "Serendeputy",
         "slug": "serendeputy.com",
@@ -868,6 +898,12 @@
         "name": "Taptapes",
         "slug": "taptapes.com",
         "url": "https:\/\/www.taptapes.com\/"
+    },
+    {
+        "pattern": "theoldreader.com",
+        "name": "The Old Reader",
+        "slug": "theoldreader.com",
+        "url": "https:\/\/theoldreader.com\/home"
     },
     {
         "pattern": "tweetedtimes.com",
