@@ -528,6 +528,12 @@
         "url": "https:\/\/www.nrc.nl\/audio\/"
     },
     {
+        "pattern": "Office 365 Connectors",
+        "name": "Office 365",
+        "slug": "microsoft.com",
+        "url": "https:\/\/microsoft.com"
+    },
+    {
         "pattern": "Overcast\/",
         "name": "Overcast",
         "slug": "overcast.fm",
@@ -732,6 +738,12 @@
         "url": "https:\/\/podmust.com"
     },
     {
+        "pattern": "Podmust\/",
+        "name": "Podmust",
+        "slug": "podmust.com",
+        "url": "https:\/\/podmust.com\/"
+    },
+    {
         "pattern": "PodnewsBot",
         "name": "PodnewsBot",
         "slug": "podnews.net",
@@ -822,6 +834,12 @@
         "url": "http:\/\/rssrad.io\/"
     },
     {
+        "pattern": "R6_FeedFetcher",
+        "name": "Salesforce",
+        "slug": "salesforce.com",
+        "url": "https:\/\/www.salesforce.com\/products\/marketing-cloud\/social-media-marketing\/?mc=radian6"
+    },
+    {
         "pattern": "semantic-visions.com",
         "name": "Semantic Visions",
         "slug": "semantic-visions.com",
@@ -856,6 +874,12 @@
         "name": "SocialBeeAgent",
         "slug": "socialbee.io",
         "url": "https:\/\/socialbee.io\/"
+    },
+    {
+        "pattern": "Sonnet\/",
+        "name": "Sonnet",
+        "slug": "sonnet.fm",
+        "url": "https:\/\/sonnet.fm\/"
     },
     {
         "pattern": "Spotify\/",
@@ -930,10 +954,22 @@
         "url": "https:\/\/www.ubermetrics-technologies.com\/"
     },
     {
+        "pattern": "verbbot\/",
+        "name": "Verb.fm",
+        "slug": "verb.fm",
+        "url": "https:\/\/verb.fm\/crawling"
+    },
+    {
         "pattern": "VictorReader",
         "name": "Victor Reader",
         "slug": "humanwear.com",
         "url": "http:\/\/www.humanware.com\/microsite\/stream\/index.html"
+    },
+    {
+        "pattern": "Vienna\/",
+        "name": "ViennaRSS",
+        "slug": "vienna-rss.com",
+        "url": "https:\/\/www.vienna-rss.com\/"
     },
     {
         "pattern": "VurblBot\/",
@@ -958,6 +994,12 @@
         "name": "Xiao Yu Zhou",
         "slug": "xiaoyuzhoufm.com",
         "url": "https:\/\/www.xiaoyuzhoufm.com\/"
+    },
+    {
+        "pattern": "YandexBot\/",
+        "name": "YandexBot",
+        "slug": "yandex.com",
+        "url": "https:\/\/yandex.com"
     },
     {
         "pattern": "Zapier",
