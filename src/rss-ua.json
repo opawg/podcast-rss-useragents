@@ -222,6 +222,12 @@
         "url": "https:\/\/www.breaker.audio\/"
     },
     {
+        "pattern": "anytime.amugofjava.me.uk",
+        "name": "Breez",
+        "slug": "technology.breez",
+        "url": "https:\/\/breez.technology\/"
+    },
+    {
         "pattern": "briefings.fm",
         "name": "briefings.fm",
         "slug": "briefings.fm",
@@ -414,6 +420,12 @@
         "url": "https:\/\/www.joeisanerd.com\/"
     },
     {
+        "pattern": "Mozilla\/5.0 (Linux;) AppleWebKit\/ Chrome\/ Safari",
+        "name": "iHeartRadio",
+        "slug": "iheartradio.com",
+        "url": "https:\/\/iheartradio.com"
+    },
+    {
         "pattern": "inoreader.com",
         "name": "Inoreader",
         "slug": "inoreader.com",
@@ -450,17 +462,17 @@
         "url": ""
     },
     {
+        "pattern": "life-radio-konsole-app",
+        "name": "Life Radio Konsole App",
+        "slug": "at.liferadio",
+        "url": "https:\/\/www.liferadio.at\/life-radio-podcasts"
+    },
+    {
         "pattern": "Liferea\/",
         "name": "Liferea",
         "slug": "liferea.lzone.de",
         "url": "https:\/\/lzone.de\/liferea\/"
     },
-	{ 
-		"pattern": "life-radio-konsole-app", 
-		"name": "Life Radio Konsole App", 
-		"slug": "liferadio.at", 
-		"url": "https:\/\/www.liferadio.at\/life-radio-podcasts\/" 
-	},
     {
         "pattern": "ListenNotes",
         "name": "Listen Notes",
@@ -762,6 +774,12 @@
         "url": "https:\/\/www.podparadise.com"
     },
     {
+        "pattern": "Podsights\/",
+        "name": "Podsights",
+        "slug": "podsights.com",
+        "url": "https:\/\/podsights.com\/"
+    },
+    {
         "pattern": "Podtail\/",
         "name": "Podtail",
         "slug": "podtail.com",
@@ -952,6 +970,12 @@
         "name": "TPA-unknown",
         "slug": "tpa",
         "url": ""
+    },
+    {
+        "pattern": "TuneInRssParser\/",
+        "name": "TuneIn",
+        "slug": "https:\/\/tunein.com\/",
+        "url": "com.tunein"
     },
     {
         "pattern": "um-IC\/",
