@@ -455,6 +455,12 @@
         "slug": "liferea.lzone.de",
         "url": "https:\/\/lzone.de\/liferea\/"
     },
+	{ 
+		"pattern": "life-radio-konsole-app", 
+		"name": "Life Radio Konsole App", 
+		"slug": "liferadio.at", 
+		"url": "https:\/\/www.liferadio.at\/life-radio-podcasts\/" 
+	},
     {
         "pattern": "ListenNotes",
         "name": "Listen Notes",
