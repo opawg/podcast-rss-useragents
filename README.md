@@ -15,6 +15,8 @@ This enables logfile analysis to not only use the audio useragent, but also the 
 
 Here's [an example of some data](https://podnews.net/article/podnews-podcast-stats) using this list; and [an example set of RSS feed requests](https://podnews.net/article/podnews-rss-stats).
 
+_Caution_: there is an `iTMS` and an `itms` useragent which appear different. You are advised to use _case-sensitive_ comparisons. We use `SELECT slug FROM `podcasts-rss-ua` WHERE 'iTMS' LIKE BINARY CONCAT('%',pattern,'%') LIMIT 1` - the BINARY portion here makes this query case-sensitive.
+
 ## Best practice for RSS useragents
 
 Podfollow uses: `Mozilla/5.0 +https://podfollow.com/crawling podfollowbot/1.0`
