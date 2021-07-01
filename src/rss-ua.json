@@ -186,6 +186,12 @@
         "url": "http:\/\/www.archive.org\/details\/archive.org_bot"
     },
     {
+        "pattern": "BazQux\/",
+        "name": "BazQux Reader",
+        "slug": "com.bazqux",
+        "url": "https:\/\/bazqux.com\/fetcher"
+    },
+    {
         "pattern": "BeyondPod",
         "name": "BeyondPod",
         "slug": "beyondpod.mobi",
@@ -208,6 +214,12 @@
         "name": "Bitcast",
         "slug": "bitcast.fm",
         "url": "https:\/\/bitcast.fm\/crawling"
+    },
+    {
+        "pattern": "Blogtrottr\/",
+        "name": "Blogtrottr",
+        "slug": "com.blogtrottr",
+        "url": "https:\/\/blogtrottr.com"
     },
     {
         "pattern": "RawVoice Generator\/",
@@ -282,6 +294,12 @@
         "url": "https:\/\/www.devontechnologies.com\/apps\/devonthink"
     },
     {
+        "pattern": "dlvr.it\/",
+        "name": "dlvr.it",
+        "slug": "com.dlvrit",
+        "url": "https:\/\/dlvrit.com"
+    },
+    {
         "pattern": "DoggCatcher",
         "name": "DoggCatcher",
         "slug": "doggcatcher.com",
@@ -304,6 +322,12 @@
         "name": "Entale",
         "slug": "entale.co",
         "url": "https:\/\/www.entale.co"
+    },
+    {
+        "pattern": "facebookexternalhit\/",
+        "name": "Facebook",
+        "slug": "com.facebook",
+        "url": "https:\/\/www.facebook.com\/externalhit_uatext.php"
     },
     {
         "pattern": "Feed Wrangler\/",
@@ -364,6 +388,12 @@
         "name": "Fyyd",
         "slug": "fyyd.de",
         "url": "https:\/\/fyyd.de\/"
+    },
+    {
+        "pattern": "FeedFetcher-Google",
+        "name": "Google Feedfetcher",
+        "slug": "com.google.feedfetcher",
+        "url": "http:\/\/www.google.com\/feedfetcher.html"
     },
     {
         "pattern": "Googlebot",
@@ -564,6 +594,12 @@
         "url": "https:\/\/paper.li\/"
     },
     {
+        "pattern": "PetalBot",
+        "name": "PetalBot",
+        "slug": "com.petalsearch",
+        "url": "https:\/\/webmaster.petalsearch.com\/site\/petalbot"
+    },
+    {
         "pattern": "Playapod\/",
         "name": "Playapod",
         "slug": "playapod.com",
@@ -660,6 +696,12 @@
         "url": "https:\/\/pdcstly.com\/"
     },
     {
+        "pattern": "PodcastScraper",
+        "name": "PodcastScraper",
+        "slug": "PodcastScraper",
+        "url": "https:\/\/github.com\/jwhong\/PodcastScraper"
+    },
+    {
         "pattern": "Podchaser-Parser",
         "name": "Podchaser",
         "slug": "podchaser.com",
@@ -690,7 +732,7 @@
         "url": "https:\/\/podfollow.com\/crawling"
     },
     {
-        "pattern": "Podhero\/",
+        "pattern": "PodheroBot\/",
         "name": "Podhero",
         "slug": "podhero.com",
         "url": "https:\/\/podhero.com\/"
@@ -822,6 +864,12 @@
         "url": "https:\/\/radiopublic.com\/"
     },
     {
+        "pattern": "reason\/",
+        "name": "Reason",
+        "slug": "fm.reason",
+        "url": "https:\/\/reason.fm\/"
+    },
+    {
         "pattern": "Reeder\/",
         "name": "Reeder",
         "slug": "reederapp.com",
@@ -832,6 +880,12 @@
         "name": "Repod",
         "slug": "repod.io",
         "url": "https:\/\/repod.io\/"
+    },
+    {
+        "pattern": "rssapi.net",
+        "name": "RSS API",
+        "slug": "net.rssapi",
+        "url": "https:\/\/rssapi.net"
     },
     {
         "pattern": "RSSOwl\/",
@@ -924,12 +978,6 @@
         "url": "https:\/\/superfeedr.com\/"
     },
     {
-        "pattern": "syncify\/",
-        "name": "Syncify",
-        "slug": "syncify.fm",
-        "url": "https:\/\/syncify.fm\/"
-    },
-    {
         "pattern": "TapTapes",
         "name": "Taptapes",
         "slug": "taptapes.com",
@@ -958,6 +1006,12 @@
         "name": "TPA-unknown",
         "slug": "tpa",
         "url": ""
+    },
+    {
+        "pattern": "trendictionbot",
+        "name": "Trendiction Bot",
+        "slug": "com.trendiction",
+        "url": "https:\/\/www.trendiction.com\/bot"
     },
     {
         "pattern": "TuneInRssParser\/",
