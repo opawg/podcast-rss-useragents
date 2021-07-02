@@ -372,6 +372,12 @@
         "url": "https:\/\/freshrss.org\/"
     },
     {
+        "pattern": "Fusebox",
+        "name": "Fusebox",
+        "slug": "fm.fusebox",
+        "url": "https:\/\/app.fusebox.fm"
+    },
+    {
         "pattern": "FYEO\/",
         "name": "FYEO",
         "slug": "fyeo.de",
