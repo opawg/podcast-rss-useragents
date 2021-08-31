@@ -294,7 +294,7 @@
         "acceptsaac": "0"
     },
     {
-        "pattern": "CastboxFeedParser",
+        "pattern": "Castbox",
         "name": "Castbox",
         "slug": "castbox.fm",
         "url": "https:\/\/castbox.fm\/",
