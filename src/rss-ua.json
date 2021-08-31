@@ -588,6 +588,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "ListenAppBot",
+        "name": "Listen App",
+        "slug": "co.listenapp",
+        "url": "https:\/\/listenapp.co",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "ListenNotes",
         "name": "Listen Notes",
         "slug": "listennotes.com",
