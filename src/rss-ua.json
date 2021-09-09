@@ -585,7 +585,7 @@
         "name": "Lisny",
         "slug": "com.lisny",
         "url": "https:\/\/www.lisny.com\/bot",
-        "acceptsaac": "0"
+        "acceptsaac": "1"
     },
     {
         "pattern": "ListenAppBot",
@@ -662,6 +662,13 @@
         "name": "Newsify",
         "slug": "newsify.co",
         "url": "http:\/\/www.newsify.co\/",
+        "acceptsaac": "0"
+    },
+    {
+        "pattern": "NewsNow\/",
+        "name": "NewsNow",
+        "slug": "uk.co.newsnow",
+        "url": "https:\/\/www.newsnow.co.uk",
         "acceptsaac": "0"
     },
     {
@@ -760,7 +767,7 @@
         "name": "Pocket Casts",
         "slug": "pocketcasts.com",
         "url": "https:\/\/www.pocketcasts.com\/",
-        "acceptsaac": "0"
+        "acceptsaac": "1"
     },
     {
         "pattern": "Swoot\/",
@@ -949,7 +956,7 @@
         "name": "PodnewsBot",
         "slug": "podnews.net",
         "url": "https:\/\/podnews.net\/bot",
-        "acceptsaac": "0"
+        "acceptsaac": "1"
     },
     {
         "pattern": "PodParadise",
@@ -1036,6 +1043,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "Reedah\/1",
+        "name": "Reedah",
+        "slug": "com.reedah",
+        "url": "http:\/\/reedah.com\/crawler.php",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "Reeder\/",
         "name": "Reeder",
         "slug": "reederapp.com",
@@ -1075,6 +1089,13 @@
         "name": "Salesforce",
         "slug": "salesforce.com",
         "url": "https:\/\/www.salesforce.com\/products\/marketing-cloud\/social-media-marketing\/?mc=radian6",
+        "acceptsaac": "0"
+    },
+    {
+        "pattern": "sp-agent",
+        "name": "Samsung Podcasts",
+        "slug": "com.samsung",
+        "url": "https:\/\/developer.samsung.com\/podcasts",
         "acceptsaac": "0"
     },
     {
