@@ -15,9 +15,9 @@ Here's [an example of some data](https://podnews.net/about/podcast-stats) using 
 
 _Caution_: there is an `iTMS` and an `itms` useragent which appear different. You are advised to use _case-sensitive_ comparisons. We use `SELECT slug FROM `podcasts-rss-ua` WHERE 'iTMS' LIKE BINARY CONCAT('%',pattern,'%') LIMIT 1` - the BINARY portion here makes this query case-sensitive.
 
-**Apple Podcasts - directory** is any download from Apple Podcasts on iOS v14.6+, or the Apple Podcasts app on macOS v11.5+. To count here, a user will have searched for Podnews in the app, and hit "follow". Our RSS feed is then consumed by the Apple directory, not by individual app users.
+**Apple Podcasts - directory** is Apple's RSS scraper. This leads to any download from Apple Podcasts on iOS v14.6+, or the Apple Podcasts app on macOS v11.5+.
 
-**Apple Podcasts - via app** is any download from earlier versions of Apple Podcasts on iOS or macOS. These older versions consumed the RSS feed directly. A user will also count in this list if they use the new versions mentioned above, and manually subscribe to the RSS feed directly.
+**Apple Podcasts - via app** is from earlier versions of Apple Podcasts on iOS or macOS. These older versions consumed the RSS feed directly.
 
 ## Best practice for RSS useragents
 
