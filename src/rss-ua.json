@@ -14,6 +14,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "AhrefsBot",
+        "name": "AhrefsSiteAudit bot",
+        "slug": "com.ahrefs",
+        "url": "https:\/\/ahrefs.com\/robot\/",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "AirPodcasts\/",
         "name": "AirPodcasts-unknown",
         "slug": "airpodcasts",
@@ -63,148 +70,148 @@
         "acceptsaac": "1"
     },
     {
-        "pattern": "Podcasts\/",
-        "name": "Apple Podcasts",
-        "slug": "podcasts.apple.com",
-        "url": "https:\/\/apple.com",
-        "acceptsaac": "1"
-    },
-    {
         "pattern": "iTMS",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - directory",
         "slug": "itms.apple.com",
         "url": "https:\/\/podcasts.apple.com\/",
         "acceptsaac": "1"
     },
     {
-        "pattern": "Balados\/",
-        "name": "Apple Podcasts",
+        "pattern": "Podcasts\/",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Balados\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
+        "slug": "podcasts.apple.com",
+        "url": "https:\/\/apple.com",
+        "acceptsaac": "1"
+    },
+    {
+        "pattern": "Balados\/",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Podcasti\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Podcastit\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Podcasturi\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Podcasty\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Podcast\u2019ler\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Podkaster\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Podcaster\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Podcast\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "Podcastok\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u0438\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "\u05e4\u05d5\u05d3\u05e7\u05d0\u05e1\u05d8\u05d9\u05dd\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "\u0627\u0644\u0628\u0648\u062f\u0643\u0627\u0633\u062a\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "\u092a\u0949\u0921\u0915\u093e\u0938\u094d\u091f\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "\u0e1e\u0e47\u0e2d\u0e14\u0e04\u0e32\u0e2a\u0e17\u0e4c\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "\u64ad\u5ba2\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
     },
     {
         "pattern": "\ud31f\uce90\uc2a4\ud2b8\/",
-        "name": "Apple Podcasts",
+        "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1"
@@ -294,7 +301,14 @@
         "acceptsaac": "0"
     },
     {
-        "pattern": "Castbox",
+        "pattern": "Castamatic\/",
+        "name": "Castamatic",
+        "slug": "com.castamatic",
+        "url": "https:\/\/castamatic.com",
+        "acceptsaac": "1"
+    },
+    {
+        "pattern": "CastboxFeedParser",
         "name": "Castbox",
         "slug": "castbox.fm",
         "url": "https:\/\/castbox.fm\/",
@@ -327,6 +341,13 @@
         "slug": "criticalmention.com",
         "url": "https:\/\/www.criticalmention.com\/",
         "acceptsaac": "0"
+    },
+    {
+        "pattern": "CurioCaster\/",
+        "name": "CurioCaster",
+        "slug": "com.curiocaster",
+        "url": "https:\/\/curiocaster.com",
+        "acceptsaac": "1"
     },
     {
         "pattern": "Deezer Podcasters\/",
@@ -403,6 +424,13 @@
         "name": "Feeder",
         "slug": "feeder.co",
         "url": "https:\/\/feeder.co\/",
+        "acceptsaac": "0"
+    },
+    {
+        "pattern": "Feeder \/",
+        "name": "Feeder",
+        "slug": "co.feeder",
+        "url": "https:\/\/feeder.co",
         "acceptsaac": "0"
     },
     {
@@ -592,7 +620,7 @@
         "name": "Listen App",
         "slug": "co.listenapp",
         "url": "https:\/\/listenapp.co",
-        "acceptsaac": "0"
+        "acceptsaac": "1"
     },
     {
         "pattern": "ListenNotes",
@@ -1166,7 +1194,7 @@
         "name": "Stitcher",
         "slug": "stitcher.com",
         "url": "https:\/\/www.stitcher.com\/",
-        "acceptsaac": "0"
+        "acceptsaac": "1"
     },
     {
         "pattern": "Subcast\/",
@@ -1236,13 +1264,6 @@
         "name": "Ubermetrics",
         "slug": "ubermetrics-technologies.com",
         "url": "https:\/\/www.ubermetrics-technologies.com\/",
-        "acceptsaac": "0"
-    },
-    {
-        "pattern": "itms",
-        "name": "Unknown crawler, for testing",
-        "slug": "com.unknown.ap",
-        "url": "",
         "acceptsaac": "0"
     },
     {
