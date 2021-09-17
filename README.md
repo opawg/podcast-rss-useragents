@@ -29,6 +29,8 @@ Podnews uses: `Mozilla/5.0 +https://podnews.net/bot PodnewsBot/1.0` and links [t
 
 In case you're worried about being blocked, don't be: Podnews has no evidence that its bot has been blocked from any service. The presence of `Mozilla/5.0` appears to calm nervous sysadmins, too.
 
+[More details and best practices here](https://podinfra.net/app-developers/rss-scrapers.html).
+
 ## The files
 
 There's only one - `/src/rss-ua.json`
