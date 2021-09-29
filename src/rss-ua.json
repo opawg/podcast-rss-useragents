@@ -1255,8 +1255,8 @@
     {
         "pattern": "TuneInRssParser\/",
         "name": "TuneIn",
-        "slug": "https:\/\/tunein.com\/",
-        "url": "com.tunein",
+        "slug": "com.tunein",
+        "url": "https:\/\/tunein.com\/",
         "acceptsaac": "0"
     },
     {
