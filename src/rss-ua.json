@@ -882,6 +882,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "Podchaser",
+        "name": "Podchaser",
+        "slug": "com.podchaser",
+        "url": "https:\/\/www.podchaser.com\/",
+        "acceptsaac": "1"
+    },
+    {
         "pattern": "podCloud\/",
         "name": "podCloud",
         "slug": "podcloud.fr",
@@ -912,9 +919,9 @@
     {
         "pattern": "podfriend",
         "name": "Podfriend",
-        "slug": "podfriend.com",
-        "url": "https:\/\/podfriend.com\/",
-        "acceptsaac": "0"
+        "slug": "com.podfriend",
+        "url": "https:\/\/podfriend.com",
+        "acceptsaac": "1"
     },
     {
         "pattern": "PodheroBot\/",
