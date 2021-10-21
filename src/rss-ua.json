@@ -224,6 +224,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "audius",
+        "name": "Audius",
+        "slug": "co.audius",
+        "url": "https:\/\/audius.co",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "BazQux\/",
         "name": "BazQux Reader",
         "slug": "com.bazqux",
