@@ -497,6 +497,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "Goodpods",
+        "name": "Goodpods",
+        "slug": "com.goodpods",
+        "url": "https:\/\/www.goodpods.com\/",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "FeedFetcher-Google",
         "name": "Google Feedfetcher",
         "slug": "com.google.feedfetcher",
