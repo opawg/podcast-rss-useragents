@@ -910,6 +910,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "podfriend",
+        "name": "Podfriend",
+        "slug": "podfriend.com",
+        "url": "https:\/\/podfriend.com\/",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "PodheroBot\/",
         "name": "Podhero",
         "slug": "podhero.com",
