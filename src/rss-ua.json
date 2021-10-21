@@ -315,6 +315,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "CastBox",
+        "name": "Castbox",
+        "slug": "castbox.fm",
+        "url": "https:\/\/castbox.fm\/",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "CastFeedValidator",
         "name": "CastFeedValidator",
         "slug": "castfeedvalidator",
