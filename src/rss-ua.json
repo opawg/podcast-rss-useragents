@@ -413,6 +413,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "podcastbot",
+        "name": "Facebook Podcasts",
+        "slug": "com.facebook",
+        "url": "https:\/\/www.facebook.com\/externalhit_uatext.php",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "facebookexternalhit\/",
         "name": "Facebook",
         "slug": "com.facebook",
