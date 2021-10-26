@@ -1183,6 +1183,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "Shadow",
+        "name": "Shadow",
+        "slug": "shadow",
+        "url": "https:\/\/apps.apple.com\/us\/app\/shadow\/id940127690",
+        "acceptsaac": "1"
+    },
+    {
         "pattern": "SismicsReaderBot",
         "name": "Sismics Reader",
         "slug": "sismics.com",
