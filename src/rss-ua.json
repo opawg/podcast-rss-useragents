@@ -413,17 +413,17 @@
         "acceptsaac": "0"
     },
     {
-        "pattern": "podcastbot",
-        "name": "Facebook Podcasts",
+        "pattern": "facebookexternalhit\/",
+        "name": "Facebook",
         "slug": "com.facebook",
         "url": "https:\/\/www.facebook.com\/externalhit_uatext.php",
         "acceptsaac": "0"
     },
     {
-        "pattern": "facebookexternalhit\/",
-        "name": "Facebook",
+        "pattern": "podcastbot",
+        "name": "Facebook Podcasts",
         "slug": "com.facebook",
-        "url": "https:\/\/www.facebook.com\/externalhit_uatext.php",
+        "url": "",
         "acceptsaac": "0"
     },
     {
@@ -1335,6 +1335,13 @@
         "slug": "vienna-rss.com",
         "url": "https:\/\/www.vienna-rss.com\/",
         "acceptsaac": "0"
+    },
+    {
+        "pattern": "Vodacast",
+        "name": "Vodacast",
+        "slug": "vodacast",
+        "url": "https:\/\/auddiainc.com\/vodacast-app\/",
+        "acceptsaac": "1"
     },
     {
         "pattern": "VurblBot\/",
