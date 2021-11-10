@@ -269,7 +269,7 @@
         "slug": "com.bazqux",
         "url": "https:\/\/bazqux.com\/fetcher",
         "acceptsaac": "0",
-        "reportssubs": "0"
+        "reportssubs": "1"
     },
     {
         "pattern": "BeyondPod",
@@ -493,7 +493,7 @@
         "slug": "feedwrangler.net",
         "url": "https:\/\/feedwrangler.net\/",
         "acceptsaac": "0",
-        "reportssubs": "0"
+        "reportssubs": "1"
     },
     {
         "pattern": "Feedbin",
@@ -501,7 +501,7 @@
         "slug": "feedbin.com",
         "url": "https:\/\/feedbin.com\/",
         "acceptsaac": "0",
-        "reportssubs": "0"
+        "reportssubs": "1"
     },
     {
         "pattern": "feeder.co",
@@ -525,7 +525,7 @@
         "slug": "feedly.com",
         "url": "https:\/\/feedly.com\/",
         "acceptsaac": "0",
-        "reportssubs": "0"
+        "reportssubs": "1"
     },
     {
         "pattern": "Feedspot\/",
@@ -677,7 +677,7 @@
         "slug": "inoreader.com",
         "url": "https:\/\/www.inoreader.com\/",
         "acceptsaac": "0",
-        "reportssubs": "0"
+        "reportssubs": "1"
     },
     {
         "pattern": "Instacast\/",
@@ -813,7 +813,7 @@
         "slug": "newsblur.com",
         "url": "https:\/\/www.newsblur.com\/",
         "acceptsaac": "0",
-        "reportssubs": "0"
+        "reportssubs": "1"
     },
     {
         "pattern": "Newsify Feed Fetcher",
@@ -861,7 +861,7 @@
         "slug": "overcast.fm",
         "url": "https:\/\/overcast.fm\/",
         "acceptsaac": "1",
-        "reportssubs": "0"
+        "reportssubs": "1"
     },
     {
         "pattern": "OwlTail\/",
@@ -909,7 +909,7 @@
         "slug": "player.fm",
         "url": "https:\/\/player.fm\/",
         "acceptsaac": "0",
-        "reportssubs": "0"
+        "reportssubs": "1"
     },
     {
         "pattern": "Plex\/",
