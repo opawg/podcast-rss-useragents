@@ -43,6 +43,7 @@ Each entry _must_ contain the following properties:
 * `name` (string): a humanly-readable name of this service
 * `slug` (string): a domain-like short identifier for this service
 * `acceptsacc` (boolean): this is set to `1` if the podcast player definitely accepts AAC files; `0` otherwise.
+* `reportssubs` (boolean): this is set to `1` if the podcast player reports your subscriber count in its user agent string; `0` otherwise.
 
 Each entry _can_ contain one of the following properties:
 
@@ -53,6 +54,10 @@ This list is automatically generated from a MySQL database; pull requests will b
 ## AAC file acceptance
 
 AAC files are accepted by almost every podcast player. The `acceptsaac` field is an opinionated one, reflecting the major >1% podcast players and their support for AAC files. Spotify and Deezer specifically do not support AAC. We've had some compatibility issues with Castro. The field is set to `1` only if it's a major podcast player that has been tested specifically for AAC playback.
+
+## Subscriber reporting
+
+Some podcast players, such as [Overcast](https://overcast.fm/podcasterinfo), report the number of subscribers your podcast has on their platform in their user agent string each time they request your feed. This may be useful information if you are interested in tracking subscriber growth across networks/players over time.
 
 ## Alternatives
 
