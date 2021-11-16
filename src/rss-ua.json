@@ -1,5 +1,13 @@
 [
     {
+        "pattern": "Tumult",
+        "name": "Tumult",
+        "slug": "tumult-podcast.fr",
+        "url": "https:\/\/tumult-podcast.fr\/",
+        "acceptsaac": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Acast",
         "name": "Acast",
         "slug": "acast.com",
