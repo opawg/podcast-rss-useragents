@@ -1,5 +1,13 @@
 [
     {
+        "pattern": "AvailableOnBot",
+        "name": "AvailableOn",
+        "slug": "com.availableon",
+        "url": "https:\/\/availableon.com\/",
+        "acceptsaac": "1",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Tumult",
         "name": "Tumult",
         "slug": "tumult-podcast.fr",
