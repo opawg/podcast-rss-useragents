@@ -224,6 +224,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "Audacy-Podcast-Scraper",
+        "name": "Audacy",
+        "slug": "com.audacy",
+        "url": "https:\/\/www.audacy.com\/podcasts",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "audius",
         "name": "Audius",
         "slug": "co.audius",
@@ -693,6 +700,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "MixerBox Podcast Crawler",
+        "name": "MixerBox",
+        "slug": "mixerbox",
+        "url": "https:\/\/apps.apple.com\/gb\/app\/music-mp3-player-mb3\/id956081467",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "MuckRackFeedParser",
         "name": "Muck Rack",
         "slug": "muckrack.com",
@@ -1057,6 +1071,13 @@
         "acceptsaac": "0"
     },
     {
+        "pattern": "Podplay-Podcast-Sync\/",
+        "name": "Podplay",
+        "slug": "com.podplay",
+        "url": "https:\/\/podplay.com\/articles\/contact",
+        "acceptsaac": "0"
+    },
+    {
         "pattern": "Podsights\/",
         "name": "Podsights",
         "slug": "podsights.com",
@@ -1082,6 +1103,13 @@
         "name": "Podtail",
         "slug": "podtail.com",
         "url": "https:\/\/podtail.com\/en\/",
+        "acceptsaac": "0"
+    },
+    {
+        "pattern": "Podtrac Feed Scanner",
+        "name": "Podtrac",
+        "slug": "com.podtrac",
+        "url": "https:\/\/analytics.podtrac.com\/",
         "acceptsaac": "0"
     },
     {
