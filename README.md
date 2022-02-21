@@ -3,7 +3,7 @@ This is a list of useragents used by apps and services to query RSS data for pod
 
 It can be used to tag audio files to get better statistics from podcast consumption, since some audio useragents are not able to be changed from the default (AppleCoreMedia, I'm looking at you). This data has been used to [discover Tunein's actual download figures](https://podnews.net/article/eight-times-bigger-podcast-user-agents), but are usable for correctly identifying podcast apps in more circumstances than using the audio useragent by itself: particularly for browser-based plays.
 
-It can also be used to feed AAC files to those that accept AAC without issues, thus saving podcast hosts and listeners significant bandwidth.
+It can also be used to feed AAC or Opus files to those that accept those formats without issues, thus saving podcast hosts and listeners significant bandwidth.
 
 ## Example usage
 
@@ -42,7 +42,8 @@ Each entry _must_ contain the following properties:
 * `pattern` (string): a simple unique string to search for.
 * `name` (string): a humanly-readable name of this service
 * `slug` (string): a domain-like short identifier for this service
-* `acceptsacc` (boolean): this is set to `1` if the podcast player definitely accepts AAC files; `0` otherwise.
+* `acceptsacc` (boolean): this is set to `1` if the podcast player definitely accepts AAC files for all users; `0` otherwise.
+* `acceptsopus` (boolean): this is set to `1` if the podcast player definitely accepts Opus files for all users; `0` otherwise.
 * `reportssubs` (boolean): this is set to `1` if the podcast player reports your subscriber count in its user agent string; `0` otherwise.
 
 Each entry _can_ contain one of the following properties:
@@ -53,7 +54,11 @@ This list is automatically generated from a MySQL database; pull requests will b
 
 ## AAC file acceptance
 
-AAC files are accepted by almost every podcast player. The `acceptsaac` field is an opinionated one, reflecting the major >1% podcast players and their support for AAC files. Spotify and Deezer specifically do not support AAC. We've had some compatibility issues with Castro. The field is set to `1` only if it's a major podcast player that has been tested specifically for AAC playback.
+AAC files are accepted by almost every podcast player, and can offer lower filesize or enhanced quality. The `acceptsaac` field is an opinionated one, reflecting the major >1% podcast players and their support for AAC files. Spotify and Deezer specifically do not support AAC. We've had some compatibility issues with Castro. The field is set to `1` only if it's a major podcast player that has been tested specifically for AAC playback.
+
+## Opus file acceptance
+
+Opus files are accepted by a minority of podcast players, but work flawlessly in (for example) Chrome on every device except iOS/iPadOS; or any KaiOS device. Opus files play well on Android devices, but aren't always imported by podcast apps. If the `acceptsopus` flag is set, you can safely default to an Opus file (typically a third of the MP3 filesize).
 
 ## Subscriber reporting
 
