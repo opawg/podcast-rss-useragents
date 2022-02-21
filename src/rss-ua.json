@@ -5,7 +5,8 @@
         "slug": "acast.com",
         "url": "https:\/\/www.acast.com\/en",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Aggregator\/",
@@ -13,7 +14,8 @@
         "slug": "aggregator.tughi.github.io",
         "url": "https:\/\/tughi.github.io\/aggregator-android\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "AhrefsBot",
@@ -21,7 +23,8 @@
         "slug": "com.ahrefs",
         "url": "https:\/\/ahrefs.com\/robot\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "AirPodcasts\/",
@@ -29,7 +32,8 @@
         "slug": "airpodcasts",
         "url": "",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Airr Podcatcher",
@@ -37,7 +41,8 @@
         "slug": "airr.io",
         "url": "https:\/\/www.airr.io\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Amazon Music Podcast",
@@ -45,7 +50,8 @@
         "slug": "amazon.com",
         "url": "https:\/\/music.amazon.com\/podcasts\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "AntennaPod\/",
@@ -53,7 +59,8 @@
         "slug": "antennapod.org",
         "url": "https:\/\/antennapod.org\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "anytime_podcast_player",
@@ -61,7 +68,8 @@
         "slug": "anytime.amugofjava.me.uk",
         "url": "https:\/\/github.com\/amugofjava\/anytime_podcast_player",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "iTunes\/",
@@ -69,7 +77,8 @@
         "slug": "itunes.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "itunesstored\/1.0",
@@ -77,7 +86,8 @@
         "slug": "store.itunes.apple.com",
         "url": "",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "iTMS",
@@ -85,7 +95,8 @@
         "slug": "itms.apple.com",
         "url": "https:\/\/podcasts.apple.com\/",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcasts\/",
@@ -93,7 +104,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Balados\/",
@@ -101,7 +113,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Balados\/",
@@ -109,7 +122,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcasti\/",
@@ -117,7 +131,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcastit\/",
@@ -125,7 +140,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcasturi\/",
@@ -133,7 +149,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcasty\/",
@@ -141,7 +158,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcast\u2019ler\/",
@@ -149,7 +167,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podkaster\/",
@@ -157,7 +176,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcaster\/",
@@ -165,7 +185,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcast\/",
@@ -173,7 +194,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcastok\/",
@@ -181,7 +203,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u0438\/",
@@ -189,7 +212,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b\/",
@@ -197,7 +221,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "\u05e4\u05d5\u05d3\u05e7\u05d0\u05e1\u05d8\u05d9\u05dd\/",
@@ -205,7 +230,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "\u0627\u0644\u0628\u0648\u062f\u0643\u0627\u0633\u062a\/",
@@ -213,7 +239,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "\u092a\u0949\u0921\u0915\u093e\u0938\u094d\u091f\/",
@@ -221,7 +248,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "\u0e1e\u0e47\u0e2d\u0e14\u0e04\u0e32\u0e2a\u0e17\u0e4c\/",
@@ -229,7 +257,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "\u64ad\u5ba2\/",
@@ -237,7 +266,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "\ud31f\uce90\uc2a4\ud2b8\/",
@@ -245,7 +275,8 @@
         "slug": "podcasts.apple.com",
         "url": "https:\/\/apple.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "special_archiver",
@@ -253,7 +284,8 @@
         "slug": "archive.org",
         "url": "http:\/\/www.archive.org\/details\/archive.org_bot",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Audacy-Podcast-Scraper",
@@ -261,7 +293,8 @@
         "slug": "com.audacy",
         "url": "https:\/\/www.audacy.com\/podcasts",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "audius",
@@ -269,7 +302,8 @@
         "slug": "co.audius",
         "url": "https:\/\/audius.co",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "AvailableOnBot",
@@ -277,7 +311,8 @@
         "slug": "com.availableon",
         "url": "https:\/\/availableon.com\/",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "BazQux\/",
@@ -285,7 +320,8 @@
         "slug": "com.bazqux",
         "url": "https:\/\/bazqux.com\/fetcher",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "1"
     },
     {
         "pattern": "BeyondPod",
@@ -293,7 +329,8 @@
         "slug": "beyondpod.mobi",
         "url": "http:\/\/www.beyondpod.mobi\/android\/index.htm",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "bingbot\/",
@@ -301,7 +338,8 @@
         "slug": "bing.com",
         "url": "http:\/\/www.bing.com\/bingbot.htm",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Bitcast\/",
@@ -309,7 +347,8 @@
         "slug": "bitcast.fm",
         "url": "https:\/\/bitcast.fm",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "bitcastbot",
@@ -317,7 +356,8 @@
         "slug": "bitcast.fm",
         "url": "https:\/\/bitcast.fm\/crawling",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Blogtrottr\/",
@@ -325,7 +365,8 @@
         "slug": "com.blogtrottr",
         "url": "https:\/\/blogtrottr.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "RawVoice Generator\/",
@@ -333,7 +374,8 @@
         "slug": "blubrry.com",
         "url": "https:\/\/create.blubrry.com\/resources\/blubrry-podcast-directory\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Breaker\/",
@@ -341,7 +383,8 @@
         "slug": "breaker.audio",
         "url": "https:\/\/www.breaker.audio\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "anytime.amugofjava.me.uk",
@@ -349,7 +392,8 @@
         "slug": "technology.breez",
         "url": "https:\/\/breez.technology\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "briefings.fm",
@@ -357,7 +401,8 @@
         "slug": "briefings.fm",
         "url": "http:\/\/briefings.fm\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Bullhorn Server",
@@ -365,7 +410,8 @@
         "slug": "bullhorn.fm",
         "url": "https:\/\/www.bullhorn.fm\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Castamatic\/",
@@ -373,7 +419,8 @@
         "slug": "com.castamatic",
         "url": "https:\/\/castamatic.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "CastboxFeedParser",
@@ -381,7 +428,8 @@
         "slug": "castbox.fm",
         "url": "https:\/\/castbox.fm\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "CastBox",
@@ -389,7 +437,8 @@
         "slug": "castbox.fm",
         "url": "https:\/\/castbox.fm\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "CastFeedValidator",
@@ -397,7 +446,8 @@
         "slug": "castfeedvalidator",
         "url": "https:\/\/castfeedvalidator.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Tentacles",
@@ -405,7 +455,8 @@
         "slug": "castro.fm",
         "url": "https:\/\/castro.fm\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Mozilla\/5.0 +https:\/\/chartable.com\/crawler Trackable\/",
@@ -413,7 +464,8 @@
         "slug": "chartable.com",
         "url": "https:\/\/chartable.com\/crawler",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcast-CriticalMention\/",
@@ -421,7 +473,8 @@
         "slug": "criticalmention.com",
         "url": "https:\/\/www.criticalmention.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "CurioCaster\/",
@@ -429,7 +482,8 @@
         "slug": "com.curiocaster",
         "url": "https:\/\/curiocaster.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "DataForSeoBot",
@@ -437,7 +491,8 @@
         "slug": "com.dataforseo",
         "url": "https:\/\/dataforseo.com\/dataforseo-bot",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Deezer Podcasters\/",
@@ -445,7 +500,8 @@
         "slug": "deezer.com",
         "url": "https:\/\/www.deezer.com\/en\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "DEVONthink",
@@ -453,7 +509,8 @@
         "slug": "devontechnologies.com",
         "url": "https:\/\/www.devontechnologies.com\/apps\/devonthink",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "dlvr.it\/",
@@ -461,7 +518,8 @@
         "slug": "com.dlvrit",
         "url": "https:\/\/dlvrit.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "DoggCatcher",
@@ -469,7 +527,8 @@
         "slug": "doggcatcher.com",
         "url": "http:\/\/www.doggcatcher.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Downcast\/",
@@ -477,7 +536,8 @@
         "slug": "downcastapp.com",
         "url": "http:\/\/www.downcastapp.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "edgar",
@@ -485,7 +545,8 @@
         "slug": "meetedgar.com",
         "url": "https:\/\/meetedgar.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Entale bot",
@@ -493,7 +554,8 @@
         "slug": "entale.co",
         "url": "https:\/\/www.entale.co",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "facebookexternalhit\/",
@@ -501,7 +563,8 @@
         "slug": "com.facebook",
         "url": "https:\/\/www.facebook.com\/externalhit_uatext.php",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "podcastbot",
@@ -509,7 +572,8 @@
         "slug": "com.facebook",
         "url": "",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Feed Wrangler\/",
@@ -517,7 +581,8 @@
         "slug": "feedwrangler.net",
         "url": "https:\/\/feedwrangler.net\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "1"
     },
     {
         "pattern": "Feedbin",
@@ -525,7 +590,8 @@
         "slug": "feedbin.com",
         "url": "https:\/\/feedbin.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "1"
     },
     {
         "pattern": "feeder.co",
@@ -533,7 +599,8 @@
         "slug": "feeder.co",
         "url": "https:\/\/feeder.co\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Feeder \/",
@@ -541,7 +608,8 @@
         "slug": "co.feeder",
         "url": "https:\/\/feeder.co",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Feedly",
@@ -549,7 +617,8 @@
         "slug": "feedly.com",
         "url": "https:\/\/feedly.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "1"
     },
     {
         "pattern": "Feedspot\/",
@@ -557,7 +626,8 @@
         "slug": "feedspot.com",
         "url": "https:\/\/www.feedspot.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "ffydpoll",
@@ -565,7 +635,8 @@
         "slug": "ffyd.de",
         "url": "https:\/\/fyyd.de\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "FreshRSS",
@@ -573,7 +644,8 @@
         "slug": "freshrss.org",
         "url": "https:\/\/freshrss.org\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Fusebox",
@@ -581,7 +653,8 @@
         "slug": "fm.fusebox",
         "url": "https:\/\/app.fusebox.fm",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "FYEO\/",
@@ -589,7 +662,8 @@
         "slug": "fyeo.de",
         "url": "https:\/\/www.fyeo.de",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "fyyd\/",
@@ -597,7 +671,8 @@
         "slug": "fyyd.de",
         "url": "https:\/\/fyyd.de\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "fyyd-poll",
@@ -605,7 +680,8 @@
         "slug": "fyyd.de",
         "url": "https:\/\/fyyd.de\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Goodpods",
@@ -613,15 +689,8 @@
         "slug": "com.goodpods",
         "url": "https:\/\/www.goodpods.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
-    },
-    {
-        "pattern": "FeedFetcher-Google",
-        "name": "Google Feedfetcher",
-        "slug": "com.google.feedfetcher",
-        "url": "http:\/\/www.google.com\/feedfetcher.html",
-        "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Googlebot",
@@ -629,7 +698,17 @@
         "slug": "bot.google.com",
         "url": "https:\/\/www.google.com\/bot.html",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "FeedFetcher-Google;",
+        "name": "Google PubSub",
+        "slug": "com.google.feedfetcher",
+        "url": "http:\/\/www.google.com\/feedfetcher.html",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "GEfektBot\/1",
@@ -637,7 +716,8 @@
         "slug": "govorenefekt.com",
         "url": "https:\/\/govorenefekt.com\/bot\/#english",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "gPodder\/",
@@ -645,7 +725,8 @@
         "slug": "gpodder.github.io",
         "url": "https:\/\/gpodder.github.io\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "hackney\/",
@@ -653,7 +734,8 @@
         "slug": "hackney",
         "url": "",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Headliner",
@@ -661,7 +743,8 @@
         "slug": "headliner.app",
         "url": "https:\/\/www.headliner.app\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Hypefactors",
@@ -669,7 +752,8 @@
         "slug": "hypefactors.com",
         "url": "https:\/\/app.hypefactors.com\/media-monitoring\/about.html",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Buck\/",
@@ -677,7 +761,8 @@
         "slug": "hypefactors.com",
         "url": "https:\/\/app.hypefactors.com\/media-monitoring\/about.html",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "iCatcher",
@@ -685,7 +770,8 @@
         "slug": "joeisanerd.com",
         "url": "https:\/\/www.joeisanerd.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Mozilla\/5.0 (Linux;) AppleWebKit\/ Chrome\/ Safari",
@@ -693,7 +779,8 @@
         "slug": "iheartradio.com",
         "url": "https:\/\/iheartradio.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "inoreader.com",
@@ -701,7 +788,8 @@
         "slug": "inoreader.com",
         "url": "https:\/\/www.inoreader.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "1"
     },
     {
         "pattern": "Instacast\/",
@@ -709,7 +797,8 @@
         "slug": "instacast",
         "url": "https:\/\/9to5mac.com\/guides\/instacast\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "iVoox",
@@ -717,7 +806,8 @@
         "slug": "ivoox.com",
         "url": "https:\/\/www.ivoox.com\/en\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "JustCast-Widget",
@@ -725,7 +815,8 @@
         "slug": "com.justcast",
         "url": "https:\/\/justcast.zendesk.com\/hc\/en-us\/sections\/360008535532-Embeddable-Player-Widget",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "KAIOS\/",
@@ -733,7 +824,8 @@
         "slug": "kaios",
         "url": "https:\/\/www.kaiostech.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "1"
+        "acceptsopus": "1",
+        "reportssubs": "0"
     },
     {
         "pattern": "Krzana bot",
@@ -741,7 +833,8 @@
         "slug": "krzana.com",
         "url": "https:\/\/krzana.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Leaf\/",
@@ -749,7 +842,8 @@
         "slug": "leaf",
         "url": "",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "life-radio-konsole-app",
@@ -757,7 +851,8 @@
         "slug": "at.liferadio",
         "url": "https:\/\/www.liferadio.at\/life-radio-podcasts",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Liferea\/",
@@ -765,7 +860,8 @@
         "slug": "liferea.lzone.de",
         "url": "https:\/\/lzone.de\/liferea\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Lisnybot",
@@ -773,7 +869,8 @@
         "slug": "com.lisny",
         "url": "https:\/\/www.lisny.com\/bot",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "ListenAppBot",
@@ -781,7 +878,8 @@
         "slug": "co.listenapp",
         "url": "https:\/\/listenapp.co",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "ListenNotes",
@@ -789,7 +887,8 @@
         "slug": "listennotes.com",
         "url": "https:\/\/www.listennotes.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Luminary\/",
@@ -797,7 +896,8 @@
         "slug": "luminary.com",
         "url": "https:\/\/luminarypodcasts.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Micro.blog\/",
@@ -805,7 +905,8 @@
         "slug": "micro.blog",
         "url": "https:\/\/micro.blog\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "MissinglettrBot\/",
@@ -813,7 +914,8 @@
         "slug": "missinglettr.com",
         "url": "https:\/\/missinglettr.com\/bot\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "MixerBox Podcast Crawler",
@@ -821,7 +923,8 @@
         "slug": "mixerbox",
         "url": "https:\/\/apps.apple.com\/gb\/app\/music-mp3-player-mb3\/id956081467",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "MuckRackFeedParser",
@@ -829,7 +932,8 @@
         "slug": "muckrack.com",
         "url": "https:\/\/muckrack.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "mypodapp.net",
@@ -837,7 +941,8 @@
         "slug": "mypod",
         "url": "https:\/\/www.amazon.com\/Matt-Evans-My-Pod\/dp\/B077Y6GC3D",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "NetNewsWire",
@@ -845,7 +950,8 @@
         "slug": "netnewswire.com",
         "url": "https:\/\/netnewswire.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Netvibes",
@@ -853,7 +959,8 @@
         "slug": "netvibes.com",
         "url": "https:\/\/www.netvibes.com\/en",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "News Explorer\/",
@@ -861,7 +968,8 @@
         "slug": "betamagic.nl",
         "url": "https:\/\/betamagic.nl\/products\/newsexplorer.html",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "NewsBlur Feed Fetcher",
@@ -869,7 +977,8 @@
         "slug": "newsblur.com",
         "url": "https:\/\/www.newsblur.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "1"
     },
     {
         "pattern": "Newsify Feed Fetcher",
@@ -877,7 +986,8 @@
         "slug": "newsify.co",
         "url": "http:\/\/www.newsify.co\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "1"
     },
     {
         "pattern": "NewsNow\/",
@@ -885,7 +995,8 @@
         "slug": "uk.co.newsnow",
         "url": "https:\/\/www.newsnow.co.uk",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "NextCloud-News\/",
@@ -893,7 +1004,8 @@
         "slug": "nextcloud.com",
         "url": "https:\/\/nextcloud.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "NRCAudioBot\/",
@@ -901,7 +1013,8 @@
         "slug": "audio.nrc.nl",
         "url": "https:\/\/www.nrc.nl\/audio\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Office 365 Connectors",
@@ -909,7 +1022,8 @@
         "slug": "microsoft.com",
         "url": "https:\/\/microsoft.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Overcast\/",
@@ -917,7 +1031,8 @@
         "slug": "overcast.fm",
         "url": "https:\/\/overcast.fm\/",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "1"
     },
     {
         "pattern": "OwlTail\/",
@@ -925,7 +1040,8 @@
         "slug": "owltail.com",
         "url": "https:\/\/www.owltail.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PandoraRSSCrawler",
@@ -933,7 +1049,8 @@
         "slug": "pandora.com",
         "url": "https:\/\/pandora.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PaperLiBot\/",
@@ -941,7 +1058,8 @@
         "slug": "paper.li",
         "url": "https:\/\/paper.li\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PetalBot",
@@ -949,7 +1067,8 @@
         "slug": "com.petalsearch",
         "url": "https:\/\/webmaster.petalsearch.com\/site\/petalbot",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Playapod\/",
@@ -957,7 +1076,8 @@
         "slug": "playapod.com",
         "url": "https:\/\/playapod.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PlayerFM\/1.0 Podcast Sync",
@@ -965,7 +1085,8 @@
         "slug": "player.fm",
         "url": "https:\/\/player.fm\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "1"
     },
     {
         "pattern": "Plex\/",
@@ -973,7 +1094,8 @@
         "slug": "plex.tv",
         "url": "https:\/\/www.plex.tv\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "plex",
@@ -981,7 +1103,8 @@
         "slug": "plex.tv",
         "url": "https:\/\/www.plex.tv\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Plex Media Providers",
@@ -989,7 +1112,8 @@
         "slug": "plex.tv",
         "url": "https:\/\/www.plex.tv\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PocketCasts\/",
@@ -997,7 +1121,8 @@
         "slug": "pocketcasts.com",
         "url": "https:\/\/www.pocketcasts.com\/",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Swoot\/",
@@ -1005,7 +1130,8 @@
         "slug": "podhero.com",
         "url": "https:\/\/podhero.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Mozilla\/5.0 (compatible; Podalong\/",
@@ -1013,7 +1139,8 @@
         "slug": "podalong.com",
         "url": "https:\/\/www.podalong.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podbay\/",
@@ -1021,7 +1148,8 @@
         "slug": "podbay.fm",
         "url": "https:\/\/podbay.fm\/about",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodbeanFeedReader\/",
@@ -1029,7 +1157,8 @@
         "slug": "podbean.com",
         "url": "https:\/\/www.podbean.com\/podcast-app-iphone-android-mobile",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodcastGuru",
@@ -1037,7 +1166,8 @@
         "slug": "podcastguru.io",
         "url": "https:\/\/podcastguru.io\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcastindex.org\/",
@@ -1045,7 +1175,8 @@
         "slug": "podcastindex.org",
         "url": "https:\/\/podcastindex.org",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodcastRepublic\/",
@@ -1053,7 +1184,8 @@
         "slug": "podcastrepublic.net",
         "url": "https:\/\/www.podcastrepublic.net\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodcastAddict\/",
@@ -1061,7 +1193,8 @@
         "slug": "podcastaddict.com",
         "url": "https:\/\/podcastaddict.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcastly\/",
@@ -1069,7 +1202,8 @@
         "slug": "pdcstly.com",
         "url": "https:\/\/pdcstly.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podcastly\/",
@@ -1077,7 +1211,8 @@
         "slug": "pdcstly.com",
         "url": "https:\/\/pdcstly.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodcastScraper",
@@ -1085,7 +1220,8 @@
         "slug": "PodcastScraper",
         "url": "https:\/\/github.com\/jwhong\/PodcastScraper",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podchaser-Parser",
@@ -1093,7 +1229,8 @@
         "slug": "podchaser.com",
         "url": "https:\/\/www.podchaser.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podchaser",
@@ -1101,7 +1238,8 @@
         "slug": "com.podchaser",
         "url": "https:\/\/www.podchaser.com\/",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "podCloud\/",
@@ -1109,7 +1247,8 @@
         "slug": "podcloud.fr",
         "url": "https:\/\/podcloud.fr\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodCruncher",
@@ -1117,7 +1256,8 @@
         "slug": "podcruncher.co",
         "url": "https:\/\/podcruncher.co\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodEngine\/",
@@ -1125,7 +1265,8 @@
         "slug": "podengine.com",
         "url": "http:\/\/podengine.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "podfollowbot\/",
@@ -1133,7 +1274,8 @@
         "slug": "podfollow.com",
         "url": "https:\/\/podfollow.com\/crawling",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "podfriend",
@@ -1141,7 +1283,8 @@
         "slug": "com.podfriend",
         "url": "https:\/\/podfriend.com",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodheroBot\/",
@@ -1149,7 +1292,8 @@
         "slug": "podhero.com",
         "url": "https:\/\/podhero.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodHound\/",
@@ -1157,7 +1301,8 @@
         "slug": "podhound.co",
         "url": "https:\/\/podhound.co\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podimo\/",
@@ -1165,7 +1310,8 @@
         "slug": "podimo.com",
         "url": "https:\/\/podimo.com\/en",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podinstall",
@@ -1173,7 +1319,8 @@
         "slug": "podinstall.com",
         "url": "https:\/\/www.podinstall.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podkicker",
@@ -1181,7 +1328,8 @@
         "slug": "podkicker.com",
         "url": "https:\/\/www.podkicker.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodkiteCrawler",
@@ -1189,7 +1337,8 @@
         "slug": "com.podkite",
         "url": "https:\/\/podkite.com\/",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodLink",
@@ -1197,7 +1346,8 @@
         "slug": "pod.link",
         "url": "http:\/\/pod.link\/faq\/crawler",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodBotLP\/",
@@ -1205,7 +1355,8 @@
         "slug": "podlp.com",
         "url": "https:\/\/podlp.com",
         "acceptsaac": "0",
-        "acceptsopus": "1"
+        "acceptsopus": "1",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodMN\/",
@@ -1213,7 +1364,8 @@
         "slug": "podmn.com",
         "url": "https:\/\/podmn.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodMust\/",
@@ -1221,7 +1373,8 @@
         "slug": "podmust.com",
         "url": "https:\/\/podmust.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podmust\/",
@@ -1229,7 +1382,8 @@
         "slug": "podmust.com",
         "url": "https:\/\/podmust.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodnewsBot",
@@ -1237,7 +1391,8 @@
         "slug": "podnews.net",
         "url": "https:\/\/podnews.net\/bot",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "PodParadise",
@@ -1245,7 +1400,8 @@
         "slug": "podparadise.com",
         "url": "https:\/\/www.podparadise.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podplay-Podcast-Sync\/",
@@ -1253,7 +1409,8 @@
         "slug": "com.podplay",
         "url": "https:\/\/podplay.com\/articles\/contact",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podscribe",
@@ -1261,7 +1418,8 @@
         "slug": "app.podscribe",
         "url": "https:\/\/podscribe.app\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podsights\/",
@@ -1269,7 +1427,8 @@
         "slug": "podsights.com",
         "url": "https:\/\/podsights.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podtail\/",
@@ -1277,7 +1436,8 @@
         "slug": "podtail.com",
         "url": "https:\/\/podtail.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Mozilla\/5.0 (compatible; Podtail\/",
@@ -1285,7 +1445,8 @@
         "slug": "podtail.com",
         "url": "https:\/\/podtail.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "podtail",
@@ -1293,7 +1454,8 @@
         "slug": "podtail.com",
         "url": "https:\/\/podtail.com\/en\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podtrac Feed Scanner",
@@ -1301,7 +1463,8 @@
         "slug": "com.podtrac",
         "url": "https:\/\/analytics.podtrac.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podverse\/Feed Parser",
@@ -1309,7 +1472,8 @@
         "slug": "podverse.fm",
         "url": "https:\/\/podverse.fm\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Podyssey App",
@@ -1317,7 +1481,8 @@
         "slug": "podyssey.fm",
         "url": "https:\/\/podyssey.fm",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Radical-Edward",
@@ -1325,7 +1490,8 @@
         "slug": "rheo.tv",
         "url": "https:\/\/rheo.tv\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "axios\/0.19.1",
@@ -1333,7 +1499,8 @@
         "slug": "radio.com",
         "url": "https:\/\/www.radio.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "RadioCut\/",
@@ -1341,7 +1508,8 @@
         "slug": "fm.radiocut",
         "url": "https:\/\/radiocut.fm\/",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Radioline",
@@ -1349,7 +1517,8 @@
         "slug": "radioline.co",
         "url": "https:\/\/www.radioline.co\/faq",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "RadioPublic-Web\/",
@@ -1357,7 +1526,8 @@
         "slug": "radiopublic.com",
         "url": "https:\/\/radiopublic.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "reason\/",
@@ -1365,7 +1535,8 @@
         "slug": "fm.reason",
         "url": "https:\/\/reason.fm\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Reedah\/1",
@@ -1373,7 +1544,8 @@
         "slug": "com.reedah",
         "url": "http:\/\/reedah.com\/crawler.php",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Reeder\/",
@@ -1381,7 +1553,8 @@
         "slug": "reederapp.com",
         "url": "https:\/\/reederapp.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Repod\/",
@@ -1389,7 +1562,8 @@
         "slug": "repod.io",
         "url": "https:\/\/repod.io\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "rssapi.net",
@@ -1397,7 +1571,8 @@
         "slug": "net.rssapi",
         "url": "https:\/\/rssapi.net",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "RSSOwl\/",
@@ -1405,7 +1580,8 @@
         "slug": "rssowl.org",
         "url": "http:\/\/www.rssowl.org\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "RSSRadio",
@@ -1413,7 +1589,8 @@
         "slug": "rssrad.io",
         "url": "http:\/\/rssrad.io\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "R6_FeedFetcher",
@@ -1421,7 +1598,8 @@
         "slug": "salesforce.com",
         "url": "https:\/\/www.salesforce.com\/products\/marketing-cloud\/social-media-marketing\/?mc=radian6",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "sp-agent",
@@ -1429,7 +1607,8 @@
         "slug": "com.samsung",
         "url": "https:\/\/developer.samsung.com\/podcasts",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "semantic-visions.com",
@@ -1437,7 +1616,8 @@
         "slug": "semantic-visions.com",
         "url": "https:\/\/semantic-visions.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "SemrushBot",
@@ -1445,7 +1625,8 @@
         "slug": "semrush.com",
         "url": "https:\/\/www.semrush.com\/bot\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "SEOkicks",
@@ -1453,7 +1634,8 @@
         "slug": "de.seokicks",
         "url": "https:\/\/www.seokicks.de\/robot.html",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "SerendeputyBot\/",
@@ -1461,7 +1643,8 @@
         "slug": "serendeputy.com",
         "url": "https:\/\/serendeputy.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Shadow",
@@ -1469,7 +1652,8 @@
         "slug": "shadow",
         "url": "https:\/\/apps.apple.com\/us\/app\/shadow\/id940127690",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "SismicsReaderBot",
@@ -1477,7 +1661,8 @@
         "slug": "sismics.com",
         "url": "https:\/\/www.sismics.com\/reader\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Slackbot",
@@ -1485,7 +1670,8 @@
         "slug": "slack.com",
         "url": "https:\/\/api.slack.com\/robots",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "SocialBeeAgent",
@@ -1493,7 +1679,8 @@
         "slug": "socialbee.io",
         "url": "https:\/\/socialbee.io\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Sonnet\/",
@@ -1501,7 +1688,8 @@
         "slug": "sonnet.fm",
         "url": "https:\/\/sonnet.fm\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Spotify\/",
@@ -1509,7 +1697,8 @@
         "slug": "spotify.com",
         "url": "https:\/\/podcasters.spotify.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Spreaker\/",
@@ -1517,7 +1706,8 @@
         "slug": "spreaker.com",
         "url": "https:\/\/www.spreaker.com\/download",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "StitcherBot",
@@ -1525,7 +1715,8 @@
         "slug": "stitcher.com",
         "url": "https:\/\/www.stitcher.com\/",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Subcast\/",
@@ -1533,7 +1724,8 @@
         "slug": "subcast.com",
         "url": "http:\/\/subcast.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Superfeedr bot",
@@ -1541,7 +1733,8 @@
         "slug": "superfeedr.com",
         "url": "https:\/\/superfeedr.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "TapTapes",
@@ -1549,7 +1742,8 @@
         "slug": "taptapes.com",
         "url": "https:\/\/www.taptapes.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "theoldreader.com",
@@ -1557,7 +1751,8 @@
         "slug": "theoldreader.com",
         "url": "https:\/\/theoldreader.com\/home",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "tweetedtimes.com",
@@ -1565,7 +1760,8 @@
         "slug": "tweetedtimes.com",
         "url": "https:\/\/tweetedtimes.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "TickerTick.com",
@@ -1573,7 +1769,8 @@
         "slug": "com.tickertick",
         "url": "https:\/\/tickertick.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Tiny Tiny RSS",
@@ -1581,7 +1778,8 @@
         "slug": "tt-rss.org",
         "url": "https:\/\/tt-rss.org\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "TPA\/",
@@ -1589,7 +1787,8 @@
         "slug": "tpa",
         "url": "",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "trendictionbot",
@@ -1597,7 +1796,8 @@
         "slug": "com.trendiction",
         "url": "https:\/\/www.trendiction.com\/bot",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Tumult",
@@ -1605,7 +1805,8 @@
         "slug": "tumult-podcast.fr",
         "url": "https:\/\/tumult-podcast.fr\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "TuneInRssParser\/",
@@ -1613,7 +1814,8 @@
         "slug": "com.tunein",
         "url": "https:\/\/tunein.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "um-IC\/",
@@ -1621,7 +1823,8 @@
         "slug": "ubermetrics-technologies.com",
         "url": "https:\/\/www.ubermetrics-technologies.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "verbbot\/",
@@ -1629,7 +1832,8 @@
         "slug": "verb.fm",
         "url": "https:\/\/verb.fm\/crawling",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "VictorReader",
@@ -1637,7 +1841,8 @@
         "slug": "humanwear.com",
         "url": "http:\/\/www.humanware.com\/microsite\/stream\/index.html",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Vienna\/",
@@ -1645,7 +1850,8 @@
         "slug": "vienna-rss.com",
         "url": "https:\/\/www.vienna-rss.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Vodacast",
@@ -1653,7 +1859,8 @@
         "slug": "vodacast",
         "url": "https:\/\/auddiainc.com\/vodacast-app\/",
         "acceptsaac": "1",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "VurblBot\/",
@@ -1661,7 +1868,8 @@
         "slug": "vurbl.com",
         "url": "https:\/\/vurbl.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Winds:",
@@ -1669,7 +1877,8 @@
         "slug": "getstream.io",
         "url": "https:\/\/getstream.io\/winds\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "russ(xiaoyuzhou)\/1.0",
@@ -1677,7 +1886,8 @@
         "slug": "xiaoyuzhoufm.com",
         "url": "https:\/\/www.xiaoyuzhoufm.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Russ",
@@ -1685,7 +1895,8 @@
         "slug": "xiaoyuzhoufm.com",
         "url": "https:\/\/www.xiaoyuzhoufm.com\/",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "YandexBot\/",
@@ -1693,7 +1904,8 @@
         "slug": "yandex.com",
         "url": "https:\/\/yandex.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "Zapier",
@@ -1701,7 +1913,8 @@
         "slug": "zapier.com",
         "url": "https:\/\/zapier.com",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "ZoominfoBot",
@@ -1709,6 +1922,7 @@
         "slug": "zoominfo.com",
         "url": "https:\/\/www.zoominfo.com\/about-zoominfo\/zoominfobot",
         "acceptsaac": "0",
-        "acceptsopus": "0"
+        "acceptsopus": "0",
+        "reportssubs": "0"
     }
 ]
