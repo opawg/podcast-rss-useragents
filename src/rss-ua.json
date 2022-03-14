@@ -927,6 +927,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "mowPod",
+        "name": "mowPod",
+        "slug": "mowpod.com",
+        "url": "https:\/\/mowpod.com\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "MuckRackFeedParser",
         "name": "Muck Rack",
         "slug": "muckrack.com",
