@@ -1323,6 +1323,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "PodKast",
+        "name": "PodKast KaiOS app",
+        "slug": "podkast-kaios",
+        "url": "https:\/\/www.reddit.com\/r\/KaiOS\/comments\/smwxsd\/need_tester_for_my_new_podcast_app_podkastbeta\/",
+        "acceptsaac": "0",
+        "acceptsopus": "1",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Podkicker",
         "name": "Podkicker",
         "slug": "podkicker.com",
