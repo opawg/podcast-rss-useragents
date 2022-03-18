@@ -927,6 +927,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Momento\/",
+        "name": "Momento",
+        "slug": "fm.momento",
+        "url": "https:\/\/momento.fm",
+        "acceptsaac": "1",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "mowPod",
         "name": "mowPod",
         "slug": "mowpod.com",
