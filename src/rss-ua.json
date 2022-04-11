@@ -837,6 +837,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Lava\/1",
+        "name": "Lava",
+        "slug": "com.joinlava",
+        "url": "http:\/\/joinlava.com",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Leaf\/",
         "name": "Leaf-unknown",
         "slug": "leaf",
@@ -1197,6 +1206,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "PodcastIndex.org\/",
+        "name": "Podcast Index",
+        "slug": "podcastindex.org",
+        "url": "https:\/\/podcastindex.org",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "PodcastRepublic\/",
         "name": "Podcast Republic",
         "slug": "podcastrepublic.net",
@@ -1508,6 +1526,15 @@
         "slug": "podyssey.fm",
         "url": "https:\/\/podyssey.fm",
         "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "Protopage\/",
+        "name": "Protopage",
+        "slug": "com.protopage",
+        "url": "http:\/\/www.protopage.com",
+        "acceptsaac": "1",
         "acceptsopus": "0",
         "reportssubs": "0"
     },
