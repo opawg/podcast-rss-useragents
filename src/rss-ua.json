@@ -1017,6 +1017,15 @@
         "reportssubs": "1"
     },
     {
+        "pattern": "Newsly\/",
+        "name": "Newsly",
+        "slug": "me.newsly",
+        "url": "https:\/\/www.newsly.me\/",
+        "acceptsaac": "1",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "NewsNow\/",
         "name": "NewsNow",
         "slug": "uk.co.newsnow",
@@ -1040,6 +1049,15 @@
         "slug": "audio.nrc.nl",
         "url": "https:\/\/www.nrc.nl\/audio\/",
         "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "NRCAudioIndexer",
+        "name": "NRC Audio",
+        "slug": "nl.nrc",
+        "url": "https:\/\/www.nrc.nl\/audio\/",
+        "acceptsaac": "1",
         "acceptsopus": "0",
         "reportssubs": "0"
     },
@@ -1206,7 +1224,7 @@
         "reportssubs": "0"
     },
     {
-        "pattern": "PodcastIndex.org\/",
+        "pattern": "PodcastIndex.org",
         "name": "Podcast Index",
         "slug": "podcastindex.org",
         "url": "https:\/\/podcastindex.org",
@@ -1642,6 +1660,15 @@
         "name": "RSSRadio",
         "slug": "rssrad.io",
         "url": "http:\/\/rssrad.io\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "RSStT",
+        "name": "RSStT",
+        "slug": "org.pypi.rsstt",
+        "url": "https:\/\/pypi.org\/project\/rsstt\/2.2.1\/",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
