@@ -58,8 +58,8 @@
         "name": "AntennaPod",
         "slug": "antennapod.org",
         "url": "https:\/\/antennapod.org\/",
-        "acceptsaac": "0",
-        "acceptsopus": "0",
+        "acceptsaac": "1",
+        "acceptsopus": "1",
         "reportssubs": "0"
     },
     {
@@ -1201,6 +1201,15 @@
         "name": "Podbean",
         "slug": "podbean.com",
         "url": "https:\/\/www.podbean.com\/podcast-app-iphone-android-mobile",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "podcastdetails.com",
+        "name": "Podcast Details",
+        "slug": "podcastdetails",
+        "url": "https:\/\/podcastdetails.com\/",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
