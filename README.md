@@ -21,13 +21,15 @@ _Caution_: there is an `iTMS` and an `itms` useragent which appear different. Yo
 
 ## Best practice for RSS useragents
 
-Podfollow uses: `Mozilla/5.0 +https://podfollow.com/crawling podfollowbot/1.0`
+Overcast uses this:
+`Overcast/1.0 Podcast Sync (123 subscribers; feed-id=456789; +http://overcast.fm/`
 
-It follows the [best practice for useragents](https://developers.whatismybrowser.com/learn/user-agent-best-practices/) and contains [a clear URL](https://podfollow.com/crawling) to find out more information, and a useragent that includes the phrase "bot" since it is.
+It follows the [best practice for useragents](https://developers.whatismybrowser.com/learn/user-agent-best-practices/) and contain a URL for more information. In this case, it also communicates how many subscribers a feed has.
 
-Podnews uses: `Mozilla/5.0 +https://podnews.net/bot PodnewsBot/1.0` and links [to this article](https://podnews.net/article/podnews-bot).
+Podnews uses this:
+`Mozilla/5.0 +https://podnews.net/bot PodnewsBot/1.0`
 
-In case you're worried about being blocked, don't be: Podnews has no evidence that its bot has been blocked from any service. The presence of `Mozilla/5.0` appears to calm nervous sysadmins, too.
+It contains a link [to this article](https://podnews.net/article/podnews-bot) and is clear that, in this case, it's a bot, not listening app. The presence of `Mozilla/5.0` appears to calm nervous sysadmins, but in case you're worried about being blocked, don't be: Podnews has no evidence that its bot has been blocked from any service.
 
 [More details and best practices here](https://podinfra.net/app-developers/rss-scrapers.html).
 
