@@ -576,6 +576,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "FeedDemon\/",
+        "name": "Feed Demon",
+        "slug": "com.feeddemon",
+        "url": "http:\/\/www.feeddemon.com\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Feed Wrangler\/",
         "name": "Feed Wrangler",
         "slug": "feedwrangler.net",
@@ -1251,6 +1260,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "TPA\/",
+        "name": "Podcast.app",
+        "slug": "tpa",
+        "url": "https:\/\/podcast.app\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "PodcastAddict\/",
         "name": "PodcastAddict",
         "slug": "podcastaddict.com",
@@ -1282,6 +1300,15 @@
         "name": "PodcastScraper",
         "slug": "PodcastScraper",
         "url": "https:\/\/github.com\/jwhong\/PodcastScraper",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "PodchaserParser",
+        "name": "Podchaser",
+        "slug": "podchaser.com",
+        "url": "https:\/\/www.podchaser.com\/",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
@@ -1409,6 +1436,15 @@
         "slug": "com.podkite",
         "url": "https:\/\/podkite.com\/",
         "acceptsaac": "1",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "PodknifeRssParser\/",
+        "name": "Podknife",
+        "slug": "com.podknife",
+        "url": "https:\/\/podknife.com\/",
+        "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
     },
@@ -1543,6 +1579,15 @@
         "name": "Podverse",
         "slug": "podverse.fm",
         "url": "https:\/\/podverse.fm\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "PodvineBot",
+        "name": "Podvine",
+        "slug": "com.podvine",
+        "url": "https:\/\/podvine.com\/",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
@@ -1696,6 +1741,15 @@
         "name": "Samsung Podcasts",
         "slug": "com.samsung",
         "url": "https:\/\/developer.samsung.com\/podcasts",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "SaysApp\/",
+        "name": "Says",
+        "slug": "app.says",
+        "url": "https:\/\/www.says.app\/",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
@@ -1872,15 +1926,6 @@
         "reportssubs": "0"
     },
     {
-        "pattern": "TPA\/",
-        "name": "Podcast.app",
-        "slug": "tpa",
-        "url": "https:\/\/podcast.app\/",
-        "acceptsaac": "0",
-        "acceptsopus": "0",
-        "reportssubs": "0"
-    },
-    {
         "pattern": "trendictionbot",
         "name": "Trendiction Bot",
         "slug": "com.trendiction",
@@ -1957,6 +2002,24 @@
         "name": "Vurbl",
         "slug": "vurbl.com",
         "url": "https:\/\/vurbl.com",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "Wavve",
+        "name": "Wavve",
+        "slug": "wavve",
+        "url": "https:\/\/wavve.link\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "Wear Casts",
+        "name": "Wear Casts",
+        "slug": "com.wearcasts",
+        "url": "https:\/\/www.wearcasts.com\/",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
