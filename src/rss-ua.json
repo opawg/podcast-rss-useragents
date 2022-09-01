@@ -1873,9 +1873,9 @@
     },
     {
         "pattern": "TPA\/",
-        "name": "TPA-unknown",
+        "name": "Podcast.app",
         "slug": "tpa",
-        "url": "",
+        "url": "https:\/\/podcast.app\/",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
