@@ -513,6 +513,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Disctopia",
+        "name": "Disctopia",
+        "slug": "disctopia.com",
+        "url": "https://play.disctopia.com",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "dlvr.it\/",
         "name": "dlvr.it",
         "slug": "com.dlvrit",
