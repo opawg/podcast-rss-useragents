@@ -1089,6 +1089,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "op3-fetcher",
+        "name": "OP3",
+        "slug": "op3",
+        "url": "https:\/\/op3.dev\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Overcast\/",
         "name": "Overcast",
         "slug": "overcast.fm",
