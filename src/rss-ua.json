@@ -1971,6 +1971,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Turtlecast\/",
+        "name": "Turtlecast",
+        "slug": "com.bluckapps.turtlecast",
+        "url": "https:\/\/www.turtlecast.app\/",
+        "acceptsaac": "1",
+        "acceptsopus": "1",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "um-IC\/",
         "name": "Ubermetrics",
         "slug": "ubermetrics-technologies.com",
