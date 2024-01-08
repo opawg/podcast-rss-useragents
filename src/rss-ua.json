@@ -477,6 +477,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "CoolerFM\/",
+        "name": "Cooler Podcast Player",
+        "slug": "cooler.fm",
+        "url": "https:\/\/cooler.fm",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "CurioCaster\/",
         "name": "CurioCaster",
         "slug": "com.curiocaster",
