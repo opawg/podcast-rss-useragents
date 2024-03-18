@@ -1548,6 +1548,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "PodscanBot\/",
+        "name": "Podscan",
+        "slug": "podscan.fm",
+        "url": "https:\/\/podscan.fm",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Podscribe",
         "name": "Podscribe",
         "slug": "app.podscribe",
