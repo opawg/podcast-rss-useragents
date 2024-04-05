@@ -1080,6 +1080,15 @@
         "reportssubs": "1"
     },
     {
+        "pattern": "Newsboat\/",
+        "name": "Newsboat",
+        "slug": "org.newsboat",
+        "url": "https:\/\/newsboat.org\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Newsify Feed Fetcher",
         "name": "Newsify",
         "slug": "newsify.co",
