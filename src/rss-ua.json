@@ -2061,6 +2061,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "TuneIn-Podcast-Checker",
+        "name": "TuneIn",
+        "slug": "com.tunein",
+        "url": "https:\/\/tunein.com\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Turtlecast\/",
         "name": "Turtlecast",
         "slug": "com.bluckapps.turtlecast",
