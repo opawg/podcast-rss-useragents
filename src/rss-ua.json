@@ -594,6 +594,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Fathom\/",
+        "name": "Fathom",
+        "slug": "fm.fathom",
+        "url": "http:\/\/www.fathom.fm\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "1"
+    },
+    {
         "pattern": "FeedDemon\/",
         "name": "Feed Demon",
         "slug": "com.feeddemon",
