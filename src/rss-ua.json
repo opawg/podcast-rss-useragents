@@ -1098,6 +1098,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "newsrdr",
+        "name": "newsrdr",
+        "slug": "us.newsrdr",
+        "url": "https:\/\/newsrdr.us",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "NextCloud-News\/",
         "name": "Nextcloud",
         "slug": "nextcloud.com",
