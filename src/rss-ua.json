@@ -2052,6 +2052,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Voxeus",
+        "name": "Voxeus",
+        "slug": "com.voxeus",
+        "url": "https:\/\/voxeus.com",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "VurblBot\/",
         "name": "Vurbl",
         "slug": "vurbl.com",
