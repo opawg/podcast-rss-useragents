@@ -1917,6 +1917,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "SPAA\/",
+        "name": "Spotify Ad Analytics",
+        "slug": "com.spotify.adanalytics",
+        "url": "https:\/\/adanalytics.spotify.com",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Spreaker\/",
         "name": "Spreaker",
         "slug": "spreaker.com",
