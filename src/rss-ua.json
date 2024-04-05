@@ -1899,6 +1899,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "SpaceCowboys RSS",
+        "name": "Feeder",
+        "slug": "spacecowboy.feeder",
+        "url": "https:\/\/github.com\/spacecowboy\/Feeder",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Spotify\/",
         "name": "Spotify",
         "slug": "spotify.com",
