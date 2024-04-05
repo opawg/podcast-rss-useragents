@@ -837,6 +837,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Jam\/",
+        "name": "Jam",
+        "slug": "com.listentojam",
+        "url": "https:\/\/www.listentojam.com",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "JustCast-Widget",
         "name": "JustCast",
         "slug": "com.justcast",
