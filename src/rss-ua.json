@@ -1251,7 +1251,7 @@
         "reportssubs": "0"
     },
     {
-        "pattern": "PodbeanFeedReader\/",
+        "pattern": "Podbean",
         "name": "Podbean",
         "slug": "podbean.com",
         "url": "https:\/\/www.podbean.com\/podcast-app-iphone-android-mobile",
