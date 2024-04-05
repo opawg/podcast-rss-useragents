@@ -1710,6 +1710,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Readybot.io",
+        "name": "Readybot",
+        "slug": "io.readybot",
+        "url": "https:\/\/readybot.io\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "reason\/",
         "name": "Reason",
         "slug": "fm.reason",
