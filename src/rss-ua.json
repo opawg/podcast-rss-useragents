@@ -2025,6 +2025,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Transistor.fm\/",
+        "name": "Transistor",
+        "slug": "fm.transistor",
+        "url": "https:\/\/www.transistor.fm",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "trendictionbot",
         "name": "Trendiction Bot",
         "slug": "com.trendiction",
