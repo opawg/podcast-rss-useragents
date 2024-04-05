@@ -1890,6 +1890,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Snipd\/",
+        "name": "Snipd",
+        "slug": "com.snipd",
+        "url": "https:\/\/snipd.com\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "SocialBeeAgent",
         "name": "SocialBeeAgent",
         "slug": "socialbee.io",
