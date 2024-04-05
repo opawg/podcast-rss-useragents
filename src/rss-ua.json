@@ -2025,6 +2025,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Unread RSS Reader",
+        "name": "Unread",
+        "slug": "com.goldenhillssoftware",
+        "url": "https:\/\/www.goldenhillsoftware.com\/unread\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "verbbot\/",
         "name": "Verb.fm",
         "slug": "verb.fm",
