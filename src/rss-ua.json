@@ -945,6 +945,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Miniflux\/",
+        "name": "Miniflux",
+        "slug": "app.miniflux",
+        "url": "https:\/\/miniflux.app\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "MissinglettrBot\/",
         "name": "MissingLettr",
         "slug": "missinglettr.com",
