@@ -657,6 +657,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "feeeed\/",
+        "name": "Feeeed",
+        "slug": "com.nateparrott.feeeed",
+        "url": "https:\/\/feeeed.nateparrott.com\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "ffydpoll",
         "name": "Ffyd",
         "slug": "ffyd.de",
