@@ -972,6 +972,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Moreover\/",
+        "name": "LexisNexis",
+        "slug": "com.moreover",
+        "url": "https:\/\/www.lexisnexis.com",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "mowPod",
         "name": "mowPod",
         "slug": "mowpod.com",
