@@ -963,6 +963,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Metacast",
+        "name": "Metacast",
+        "slug": "metacast.app",
+        "url": "https:\/\/metacast.app\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Micro.blog\/",
         "name": "Micro.blog",
         "slug": "micro.blog",
