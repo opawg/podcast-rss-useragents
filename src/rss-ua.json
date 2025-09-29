@@ -1692,6 +1692,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Poddtoppen\/",
+        "name": "Podtoppen",
+        "slug": "podtoppen.se",
+        "url": "https:\/\/poddtoppen.se",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Mozilla\/5.0 (compatible; Podtail\/",
         "name": "Podtail",
         "slug": "podtail.com",
@@ -1741,6 +1750,15 @@
         "name": "Podyssey App",
         "slug": "podyssey.fm",
         "url": "https:\/\/podyssey.fm",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "ProcastBackend\/",
+        "name": "ProcastBackend",
+        "slug": "podcastapp.de",
+        "url": "https:\/\/www.podcast-app.de",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
