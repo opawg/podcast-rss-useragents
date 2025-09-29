@@ -711,6 +711,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "FlipboardRSS\/",
+        "name": "Flipboard",
+        "slug": "flipboard.com",
+        "url": "http:\/\/flipboard.com\/browserproxy",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "ffydpoll",
         "name": "Ffyd",
         "slug": "ffyd.de",
