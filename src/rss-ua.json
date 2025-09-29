@@ -55,7 +55,7 @@
     },
     {
         "pattern": "AnnounceCast\/",
-        "name": "AnnounceCast - A simple Discord Podcasts announcement bot.",
+        "name": "AnnounceCast (Discord bot)",
         "slug": "announcecast.github.com",
         "url": "https:\/\/github.com\/jimlind\/AnnounceCast",
         "acceptsaac": "0",
@@ -1206,6 +1206,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "OohDirectory",
+        "name": "OohDirectory",
+        "slug": "ooh.directory",
+        "url": "https:\/\/ooh.directory",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "op3-fetcher",
         "name": "OP3",
         "slug": "op3",
@@ -1525,6 +1534,15 @@
         "name": "Podhero",
         "slug": "podhero.com",
         "url": "https:\/\/podhero.com\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "Podhome App\/",
+        "name": "Podhome",
+        "slug": "podhome.fm",
+        "url": "https:\/\/podhome.fm",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
@@ -1962,6 +1980,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "ScourRSSBot",
+        "name": "Scour",
+        "slug": "scour.ing",
+        "url": "https:\/\/scour.ing\/bot",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "semantic-visions.com",
         "name": "Semantic Visions",
         "slug": "semantic-visions.com",
@@ -2052,7 +2079,7 @@
         "reportssubs": "0"
     },
     {
-        "pattern": "SpaceCowboys RSS",
+        "pattern": "SpaceCowboys ",
         "name": "Feeder",
         "slug": "spacecowboy.feeder",
         "url": "https:\/\/github.com\/spacecowboy\/Feeder",
@@ -2264,6 +2291,15 @@
         "slug": "vodacast",
         "url": "https:\/\/auddiainc.com\/vodacast-app\/",
         "acceptsaac": "1",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "Vore",
+        "name": "Vore",
+        "slug": "vore.website",
+        "url": "https:\/\/vore.website",
+        "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
     },
