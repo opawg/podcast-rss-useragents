@@ -739,7 +739,7 @@
     },
     {
         "pattern": "Googlebot",
-        "name": "Google Podcasts and Search",
+        "name": "Google and YouTube",
         "slug": "bot.google.com",
         "url": "https:\/\/www.google.com\/bot.html",
         "acceptsaac": "1",
