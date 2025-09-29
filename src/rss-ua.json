@@ -792,6 +792,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "GoogleOther",
+        "name": "Google and YouTube",
+        "slug": "bot.google.com",
+        "url": "https:\/\/www.google.com\/bot.html",
+        "acceptsaac": "1",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "FeedFetcher-Google;",
         "name": "Google PubSub",
         "slug": "com.google.feedfetcher",
