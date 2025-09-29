@@ -45,10 +45,19 @@
         "reportssubs": "0"
     },
     {
-        "pattern": "Amazon Music Podcast",
-        "name": "Amazon Music Podcasts",
+        "pattern": "Amazon Music",
+        "name": "Amazon Music",
         "slug": "amazon.com",
         "url": "https:\/\/music.amazon.com\/podcasts\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "AnnounceCast\/",
+        "name": "AnnounceCast - A simple Discord Podcasts announcement bot.",
+        "slug": "announcecast.github.com",
+        "url": "https:\/\/github.com\/jimlind\/AnnounceCast",
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
@@ -60,6 +69,15 @@
         "url": "https:\/\/antennapod.org\/",
         "acceptsaac": "1",
         "acceptsopus": "1",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "Ausha-API",
+        "name": "Ausha",
+        "slug": "ausha.co",
+        "url": "https:\/\/ausha.co",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
         "reportssubs": "0"
     },
     {
@@ -322,6 +340,15 @@
         "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "1"
+    },
+    {
+        "pattern": "Betamagic\/",
+        "name": "Betamagic News Explorer",
+        "slug": "betamagic.nl",
+        "url": "https:\/\/betamagic.nl",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
     },
     {
         "pattern": "BeyondPod",
@@ -1550,6 +1577,15 @@
     {
         "pattern": "PodLink",
         "name": "PodLink",
+        "slug": "pod.link",
+        "url": "http:\/\/pod.link\/faq\/crawler",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "Podlink\/",
+        "name": "Podlink",
         "slug": "pod.link",
         "url": "http:\/\/pod.link\/faq\/crawler",
         "acceptsaac": "0",
