@@ -72,6 +72,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Artykul\/",
+        "name": "Artykul RSS",
+        "slug": "artykul.org",
+        "url": "https:\/\/artykul.org",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Ausha-API",
         "name": "Ausha",
         "slug": "ausha.co",
