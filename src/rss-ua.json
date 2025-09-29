@@ -117,6 +117,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "itms",
+        "name": "Apple Podcasts - directory",
+        "slug": "itms.apple.com",
+        "url": "https:\/\/podcasts.apple.com\/",
+        "acceptsaac": "1",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Podcasts\/",
         "name": "Apple Podcasts - via app",
         "slug": "podcasts.apple.com",
@@ -1359,6 +1368,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "PodcastGuru",
+        "name": "Podcast Guru",
+        "slug": "podcastguru.io",
+        "url": "https:\/\/podcastguru.io\/",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Podcastindex.org\/",
         "name": "Podcast Index",
         "slug": "podcastindex.org",
@@ -1611,6 +1629,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Podmonbot\/",
+        "name": "Podmon",
+        "slug": "podmon.io",
+        "url": "https:\/\/podmon.io",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "PodMust\/",
         "name": "PodMust",
         "slug": "podmust.com",
@@ -1634,6 +1661,15 @@
         "slug": "podnews.net",
         "url": "https:\/\/podnews.net\/bot",
         "acceptsaac": "1",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
+        "pattern": "Podpage",
+        "name": "Podpage",
+        "slug": "podpage.com",
+        "url": "https:\/\/podpage.com",
+        "acceptsaac": "0",
         "acceptsopus": "0",
         "reportssubs": "0"
     },
