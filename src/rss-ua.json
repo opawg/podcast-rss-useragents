@@ -1458,6 +1458,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "PodcastAgent",
+        "name": "Global Player",
+        "slug": "globalplayer.com",
+        "url": "https:\/\/www.globalplayer.com",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Podcastly\/",
         "name": "Podcastly",
         "slug": "pdcstly.com",
