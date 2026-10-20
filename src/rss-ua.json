@@ -513,6 +513,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "ChristianityAtScaleBot\/",
+        "name": "Christianity at Scale",
+        "slug": "christianityatscale.com",
+        "url": "https:\/\/christianityatscale.com\/bot",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Podcast-CriticalMention\/",
         "name": "Critical Mention",
         "slug": "criticalmention.com",
