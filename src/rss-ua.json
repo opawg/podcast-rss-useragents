@@ -2430,6 +2430,15 @@
         "reportssubs": "0"
     },
     {
+        "pattern": "Yarn\/",
+        "name": "Yarn",
+        "slug": "yarnpodcast.app",
+        "url": "https:\/\/yarnpodcast.app",
+        "acceptsaac": "0",
+        "acceptsopus": "0",
+        "reportssubs": "0"
+    },
+    {
         "pattern": "Zapier",
         "name": "Zapier",
         "slug": "zapier.com",
